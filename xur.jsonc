@@ -1,0 +1,5019 @@
+//Seasons
+[
+    //Season 1 Red War 9/06/17-12/05/17
+    [
+        //Week 1
+        {
+            "location": "",
+            "weapon": "",
+            "hunter": "",
+            "titan": "",
+            "warlock": ""
+        },
+        //Week 2
+        {
+            "location": "Nessus",
+            "weapon": "Merciless",
+            "hunter": "Raiden Flux",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "09/15/17"
+        },
+        //Week 3
+        {
+            "location": "Titan",
+            "weapon": "The Wardcliff Coil",
+            "hunter": "Foetracer",
+            "titan": "ACD/0 Feedback Fence",
+            "warlock": "Sunbracers",
+            "date": "09/22/17"
+        },
+        //Week 4
+        {
+            "location": "Io",
+            "weapon": "Riskrunner",
+            "hunter": "Mechaneer's Tricksleeves",
+            "titan": "Hallowfire Heart",
+            "warlock": "Transversive Steps",
+            "date": "09/29/17"
+        },
+        //Week 5
+        {
+            "location": "EDZ",
+            "weapon": "Vigilance Wing",
+            "hunter": "Foetracer",
+            "titan": "An Insurmountable Skullfort",
+            "warlock": "Nezarec's Sin",
+            "date": "10/06/17"
+        },
+        //Week 6
+        {
+            "location": "Nessus",
+            "weapon": "Fighting Lion",
+            "hunter": "Knucklehead Radar",
+            "titan": "Peacekeepers",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "10/13/17"
+        },
+        //Week 7
+        {
+            "location": "Titan",
+            "weapon": "Sweet Business",
+            "hunter": "Raiden Flux",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Winter's Guile",
+            "date": "10/20/17"
+        },
+        //Week 8
+        {
+            "location": "Io",
+            "weapon": "D.A.R.C.I.",
+            "hunter": "Knucklehead Radar",
+            "titan": "Actium War Rig",
+            "warlock": "Eye of Another World",
+            "date": "10/27/17"
+        },
+        //Week 9
+        {
+            "location": "EDZ",
+            "weapon": "Graviton Lance",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Mask of the Quite One",
+            "warlock": "Nezarec's Sin",
+            "date": "11/03/17"
+        },
+        //Week 10
+        {
+            "location": "Nessus",
+            "weapon": "The Prospector",
+            "hunter": "Foetracer",
+            "titan": "An Insurmountable Skullfort",
+            "warlock": "Eye of Another World",
+            "date": "11/10/17"
+        },
+        //Week 11
+        {
+            "location": "Titan",
+            "weapon": "Hard Light",
+            "hunter": "Lucky Raspberry",
+            "titan": "Synthoceps",
+            "warlock": "Karnstein Armlets",
+            "date": "11/17/17"
+        },
+        //Week 12
+        {
+            "location": "Io",
+            "weapon": "Merciless",
+            "hunter": "Lucky Pants",
+            "titan": "Mask of the Quite One",
+            "warlock": "Starfire Protocol",
+            "date": "11/24/17"
+        },
+        //Week 13
+        {
+            "location": "EDZ",
+            "weapon": "Sweet Business",
+            "hunter": "Lucky Raspberry",
+            "titan": "Synthoceps",
+            "warlock": "Skull of Dire Ahamkara",
+            "date": "12/01/17"
+        }
+    ],
+    //Season 2 Curse of Osiris 12/05/17-05/08/2018
+    [
+        //Week 1
+        {
+            "location": "EDZ",
+            "weapon": "Prometheus Lens",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Mk. 44 Stand Asides",
+            "warlock": "Nezarec's Sin",
+            "date": "12/08/17"
+        },
+        //Week 2
+        {
+            "location": "Tower",
+            "weapon": "D.A.R.C.I.",
+            "hunter": "Celestial Nighthawk",
+            "titan": "Hallowfire Heart",
+            "warlock": "Eye of Another World",
+            "date": "12/15/17"
+        },
+        //Week 3
+        {
+            "location": "Titan",
+            "weapon": "Riskrunner",
+            "hunter": "Lucky Pants",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "12/22/17"
+        },
+        //Week 4
+        {
+            "location": "Nessus",
+            "weapon": "Vigilance Wing",
+            "hunter": "Foetracer",
+            "titan": "Peacekeepers",
+            "warlock": "Eye of Another World",
+            "date": "12/29/17"
+        },
+        //Week 5
+        {
+            "location": "Io",
+            "weapon": "Merciless",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Mask of the Quite One",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "01/05/18"
+        },
+        //Week 6
+        {
+            "location": "EDZ",
+            "weapon": "The Colony",
+            "hunter": "Shinobu's Vow",
+            "titan": "Mk. 44 Stand Asides",
+            "warlock": "The Stag",
+            "date": "01/12/18"
+        },
+        //Week 7
+        {
+            "location": "Tower",
+            "weapon": "Tractor Cannon",
+            "hunter": "Knucklehead Radar",
+            "titan": "Actium War Rig",
+            "warlock": "Transversive Steps",
+            "date": "01/19/18"
+        },
+        //Week 8
+        {
+            "location": "Titan",
+            "weapon": "Sweet Business",
+            "hunter": "Graviton Forfeit",
+            "titan": "Dunemarchers",
+            "warlock": "Skull of Dire Ahamkara",
+            "date": "01/26/18"
+        },
+        //Week 9
+        {
+            "location": "Nessus",
+            "weapon": "The Prospector",
+            "hunter": "Lucky Raspberry",
+            "titan": "An Insurmountable Skullfort",
+            "warlock": "Ophidian Aspect",
+            "date": "02/02/18"
+        },
+        //Week 10
+        {
+            "location": "Io",
+            "weapon": "The Jade Rabbit",
+            "hunter": "Raiden Flux",
+            "titan": "Synthoceps",
+            "warlock": "Karnstein Armlets",
+            "date": "02/09/18"
+        },
+        //Week 11
+        {
+            "location": "EDZ",
+            "weapon": "Merciless",
+            "hunter": "Lucky Pants",
+            "titan": "ACD/0 Feedback Fence",
+            "warlock": "Starfire Protocol",
+            "date": "02/16/18"
+        },
+        //Week 12
+        {
+            "location": "Tower",
+            "weapon": "Crimson",
+            "hunter": "Graviton Forfeit",
+            "titan": "Helm of Saint-14",
+            "warlock": "Vesper of Radius",
+            "date": "02/23/18"
+        },
+        //Week 13
+        {
+            "location": "Titan",
+            "weapon": "The Wardcliff Coil",
+            "hunter": "Mechaneer's Tricksleeves",
+            "titan": "Crest of Alpha Lupi",
+            "warlock": "Eye of Another World",
+            "date": "03/02/18"
+        },
+        //Week 14
+        {
+            "location": "Nessus",
+            "weapon": "Coldheart",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Hallowfire Heart",
+            "warlock": "Nezarec's Sin",
+            "date": "03/09/18"
+        },
+        //Week 15
+        {
+            "location": "Io",
+            "weapon": "Skyburner's Oath",
+            "hunter": "Celestial Nighthawk",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "03/16/18"
+        },
+        //Week 16
+        {
+            "location": "EDZ",
+            "weapon": "Sunshot",
+            "hunter": "Orpheus Rig",
+            "titan": "Lion Rampant",
+            "warlock": "Karnstein Armlets",
+            "date": "03/23/18"
+        },
+        //Week 17
+        {
+            "location": "Tower",
+            "weapon": "D.A.R.C.I.",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Mk. 44 Stand Asides",
+            "warlock": "Nezarec's Sin",
+            "date": "03/30/18"
+        },
+        //Week 18
+        {
+            "location": "Titan",
+            "weapon": "Prometheus Lens",
+            "hunter": "Celestial Nighthawk",
+            "titan": "Hallowfire Heart",
+            "warlock": "Eye of Another World",
+            "date": "04/06/18"
+        },
+        //Week 19
+        {
+            "location": "Nessus",
+            "weapon": "Riskrunner",
+            "hunter": "Gemini Jester",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "04/13/18"
+        },
+        //Week 20
+        {
+            "location": "Io",
+            "weapon": "Vigilance Wing",
+            "hunter": "Foetracer",
+            "titan": "Peacekeepers",
+            "warlock": "Vesper of Radius",
+            "date": "04/20/18"
+        },
+        //Week 21
+        {
+            "location": "EDZ",
+            "weapon": "Telesto",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Mask of the Quite One",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "04/27/18"
+        },
+        //Week 22
+        {
+            "location": "Tower",
+            "weapon": "The Colony",
+            "hunter": "Shinobu's Vow",
+            "titan": "Mk. 44 Stand Asides",
+            "warlock": "The Stag",
+            "date": "05/04/18"
+        }
+    ],
+    //Season 3 Warmind 05/08/2018-9/04/2018
+    [
+        //Week 1
+        {
+            "location": "Nessus",
+            "weapon": "Prometheus Lens",
+            "hunter": "Knucklehead Radar",
+            "titan": "Ashen Wake",
+            "warlock": "Vesper of Radius",
+            "date": "05/11/18"
+        },
+        //Week 2
+        {
+            "location": "Tower",
+            "weapon": "SUROS Regime",
+            "hunter": "Gemini Jester",
+            "titan": "Crest of Alpha Lupi",
+            "warlock": "Claws of Ahamkara",
+            "date": "05/18/18"
+        },
+        //Week 3
+        {
+            "location": "Io",
+            "weapon": "Vigilance Wing",
+            "hunter": "Foetracer",
+            "titan": "Khepri's Horn",
+            "warlock": "Sanguine Alchemy",
+            "date": "05/25/18"
+        },
+        //Week 4
+        {
+            "location": "Titan",
+            "weapon": "Telesto",
+            "hunter": "Fr0st-EE5",
+            "titan": "Eternal Warrior",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "06/01/18"
+        },
+        //Week 5
+        {
+            "location": "Tower",
+            "weapon": "The Huckleberry",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Peacekeepers",
+            "warlock": "Transversive Steps",
+            "date": "06/01/18"
+        },
+        //Week 6
+        {
+            "location": "EDZ",
+            "weapon": "Tractor Cannon",
+            "hunter": "Sealed Ahamkara Grasps",
+            "titan": "Actium War Rig",
+            "warlock": "The Stag",
+            "date": "06/15/18"
+        },
+        //Week 7
+        {
+            "location": "Tower",
+            "weapon": "The Colony",
+            "hunter": "Graviton Forfeit",
+            "titan": "Armamentarium",
+            "warlock": "Skull of Dire Ahamkara",
+            "date": "06/22/18"
+        },
+        //Week 8
+        {
+            "location": "Nessus",
+            "weapon": "The Wardcliff Coil",
+            "hunter": "Lucky Raspberry",
+            "titan": "An Insurmountable Skullfort",
+            "warlock": "Ophidian Aspect",
+            "date": "06/29/18"
+        },
+        //Week 9
+        {
+            "location": "Titan",
+            "weapon": "The Jade Rabbit",
+            "hunter": "Mechaneer's Tricksleeves",
+            "titan": "Synthoceps",
+            "warlock": "Karnstein Armlets",
+            "date": "07/06/18"
+        },
+        //Week 10
+        {
+            "location": "Tower",
+            "weapon": "Crimson",
+            "hunter": "Fr0st-EE5",
+            "titan": "ACD/0 Feedback Fence",
+            "warlock": "Starfire Protocol",
+            "date": "07/13/18"
+        },
+        //Week 11
+        {
+            "location": "Io",
+            "weapon": "Coldheart",
+            "hunter": "Graviton Forfeit",
+            "titan": "Helm of Saint-14",
+            "warlock": "Vesper of Radius",
+            "date": "07/20/18"
+        },
+        //Week 12
+        {
+            "location": "EDZ",
+            "weapon": "The Huckleberry",
+            "hunter": "Mechaneer's Tricksleeves",
+            "titan": "Crest of Alpha Lupi",
+            "warlock": "Eye of Another World",
+            "date": "07/27/18"
+        },
+        //Week 13
+        {
+            "location": "Nessus",
+            "weapon": "Skyburner's Oath",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Hallowfire Heart",
+            "warlock": "Sanguine Alchemy",
+            "date": "08/03/18"
+        },
+        //Week 14
+        {
+            "location": "Tower",
+            "weapon": "Prometheus Lens",
+            "hunter": "Celestial Nighthawk",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Wings of Sacred Dawn",
+            "date": "08/10/18"
+        },
+        //Week 15
+        {
+            "location": "Io",
+            "weapon": "Sunshot",
+            "hunter": "Orpheus Rig",
+            "titan": "Lion Rampant",
+            "warlock": "Karnstein Armlets",
+            "date": "08/17/18"
+        },
+        //Week 16
+        {
+            "location": "Titan",
+            "weapon": "Riskrunner",
+            "hunter": "Ophidia Spathe",
+            "titan": "Mk. 44 Stand Asides",
+            "warlock": "Eye of Another World",
+            "date": "08/24/18"
+        },
+        //Week 17
+        {
+            "location": "EDZ",
+            "weapon": "Prometheus Lens",
+            "hunter": "Knucklehead Radar",
+            "titan": "Ashen Wake",
+            "warlock": "Vesper of Radius",
+            "date": "08/31/18"
+        }
+    ],
+    //Season 4 Forsaken 9/04/2018-12/04/2018
+    [
+        //Week 1
+        {
+            "location": "Tower",
+            "weapon": "Prometheus Lens",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Ashen Wake",
+            "warlock": "Nezarec's Sin",
+            "date": "09/07/18"
+        },
+        //Week 2
+        {
+            "location": "EDZ",
+            "weapon": "Sunshot",
+            "hunter": "Graviton Forfeit",
+            "titan": "Wormgod Caress",
+            "warlock": "Eye of Another World",
+            "date": "09/14/18"
+        },
+        //Week 3
+        {
+            "location": "Nessus",
+            "weapon": "Crimson",
+            "hunter": "St0mp-EE5",
+            "titan": "Khepri's Horn",
+            "warlock": "Verity's Brow",
+            "date": "09/21/18"
+        },
+        //Week 4
+        {
+            "location": "Tower",
+            "weapon": "Sweet Business",
+            "hunter": "Aeon Swift",
+            "titan": "Hallowfire Heart",
+            "warlock": "Winter's Guile",
+            "date": "09/28/18"
+        },
+        //Week 5
+        {
+            "location": "Io",
+            "weapon": "Skyburner's Oath",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Helm of Saint-14",
+            "warlock": "Skull of Dire Ahamkara",
+            "date": "10/05/18"
+        },
+        //Week 6
+        {
+            "location": "Titan",
+            "weapon": "Tractor Cannon",
+            "hunter": "Gemini Jester",
+            "titan": "Synthoceps",
+            "warlock": "Sanguine Alchemy",
+            "date": "10/12/18"
+        },
+        //Week 7
+        {
+            "location": "Io",
+            "weapon": "Crimson",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Ashen Wake",
+            "warlock": "Crown of Tempests",
+            "date": "10/19/18"
+        },
+        //Week 8
+        {
+            "location": "EDZ",
+            "weapon": "Telesto",
+            "hunter": "Sealed Ahamkara Grasps",
+            "titan": "Actium War Rig",
+            "warlock": "Claws of Ahamkara",
+            "date": "10/26/18"
+        },
+        //Week 9
+        {
+            "location": "Nessus",
+            "weapon": "Vigilance Wing",
+            "hunter": "Fr0st-EE5",
+            "titan": "Armamentarium",
+            "warlock": "Starfire Protocol",
+            "date": "11/02/18"
+        },
+        //Week 10
+        {
+            "location": "Io",
+            "weapon": "The Prospector",
+            "hunter": "Ophidia Spathe",
+            "titan": "Aeon Safe",
+            "warlock": "Winter's Guile",
+            "date": "11/09/18"
+        },
+        //Week 11
+        {
+            "location": "Titan",
+            "weapon": "Coldheart",
+            "hunter": "Knucklehead Radar",
+            "titan": "An Insurmountable Skullfort",
+            "warlock": "Aeon Soul",
+            "date": "11/16/18"
+        },
+        //Week 12
+        {
+            "location": "EDZ",
+            "weapon": "SUROS Regime",
+            "hunter": "Wormhusk Crown",
+            "titan": "Armamentarium",
+            "warlock": "Karnstein Armlets",
+            "date": "11/23/18"
+        },
+        //Week 13
+        {
+            "location": "Nessus",
+            "weapon": "Riskrunner",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Armamentarium",
+            "warlock": "Karnstein Armlets",
+            "date": "11/30/18"
+        },
+    ],
+    //Season 5 Forge 12/04/2018-03/05/2019
+    [
+        
+        //Week 1
+        {
+            "location": "Tower",
+            "weapon": "SUROS Regime",
+            "hunter": "Ophidia Spathe",
+            "titan": "ACD/0 Feedback Fence",
+            "warlock": "Crown of Tempests",
+            "date": "12/07/18"
+        },
+        //Week 2
+        {
+            "location": "Io",
+            "weapon": "Sweet Business",
+            "hunter": "Orpheus Rig",
+            "titan": "Hallowfire Heart",
+            "warlock": "Claws of Ahamkara",
+            "date": "12/14/18"
+        },
+        //Week 3
+        {
+            "location": "Tower",
+            "weapon": "Merciless",
+            "hunter": "Knucklehead Radar",
+            "titan": "Aeon Safe",
+            "warlock": "Apotheosis Veil",
+            "date": "12/21/18"
+        },
+        //Week 4
+        {
+            "location": "Titan",
+            "weapon": "D.A.R.C.I.",
+            "hunter": "Ophidia Spathe",
+            "titan": "Ashen Wake",
+            "warlock": "The Stag",
+            "date": "12/28/18"
+        },
+        //Week 5
+        {
+            "location": "EDZ",
+            "weapon": "Graviton Lance",
+            "hunter": "Celestial Nighthawk",
+            "titan": "Dunemarchers",
+            "warlock": "Sanguine Alchemy"
+        },
+        //Week 6
+        {
+            "location": "Tower",
+            "weapon": "Merciless",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Crown of Tempests"
+        },
+        //Week 7
+        {
+            "location": "Io",
+            "weapon": "Vigilance Wing",
+            "hunter": "Orpheus Rig",
+            "titan": "Hallowfire Heart",
+            "warlock": "Verity's Brow"
+        },
+        //Week 8
+        {
+            "location": "Titan",
+            "weapon": "Crimson",
+            "hunter": "Fr0st-EE5",
+            "titan": "Ashen Wake",
+            "warlock": "Transversive Steps"
+        },
+        //Week 9
+        {
+            "location": "EDZ",
+            "weapon": "The Huckleberry",
+            "hunter": "St0mp-EE5",
+            "titan": "An Insurmountable Skullfort",
+            "warlock": "Claws of Ahamkara"
+        },
+        //Week 10
+        {
+            "location": "Tower",
+            "weapon": "Skyburner's Oath",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Wormgod Caress",
+            "warlock": "Sunbracers"
+        },
+        //Week 11
+        {
+            "location": "EDZ",
+            "weapon": "Sunshot",
+            "hunter": "Lucky Raspberry",
+            "titan": "Actium War Rig",
+            "warlock": "Skull of Dire Ahamkara"
+        },
+        //Week 12
+        {
+            "location": "Io",
+            "weapon": "Graviton Lance",
+            "hunter": "Orpheus Rig",
+            "titan": "Synthoceps",
+            "warlock": "Aeon Soul"
+        },
+        //Week 13
+        {
+            "location": "Nessus",
+            "weapon": "The Colony",
+            "hunter": "Knucklehead Radar",
+            "titan": "Peacekeepers",
+            "warlock": "Claws of Ahamkara"
+        }
+    ],
+    //Season 6 Drifter 03/05/2019-06/04/2019
+    [
+        //Week 1
+        {
+            "location": "Tower",
+            "weapon": "Trinity Ghoul",
+            "hunter": "Oathkeeper",
+            "titan": "Ursa Furiosa",
+            "warlock": "Ophidian Aspect"
+        },
+        //Week 2
+        {
+            "location": "Titan",
+            "weapon": "Crimson",
+            "hunter": "Orpheus Rig",
+            "titan": "Wormgod Caress",
+            "warlock": "Chromatic Fire"
+        },
+        //Week 3
+        {
+            "location": "EDZ",
+            "weapon": "The Huckleberry",
+            "hunter": "Gemini Jester",
+            "titan": "Mask of the Quite One",
+            "warlock": "Contraverse Hold"
+        },
+        //Week 4
+        {
+            "location": "Tower",
+            "weapon": "Sunshot",
+            "hunter": "Foetracer",
+            "titan": "Helm of Saint-14",
+            "warlock": "Sunbracers"
+        },
+        //Week 5
+        {
+            "location": "Titan",
+            "weapon": "D.A.R.C.I.",
+            "hunter": "Gwisin Vest",
+            "titan": "Antaeus Wards",
+            "warlock": "Winter's Guile"
+        },
+        //Week 6
+        {
+            "location": "Tower",
+            "weapon": "The Jade Rabbit",
+            "hunter": "Lucky Pants",
+            "titan": "Dunemarchers",
+            "warlock": "Starfire Protocol"
+        },
+        //Week 7
+        {
+            "location": "EDZ",
+            "weapon": "The Wardcliff Coil",
+            "hunter": "Raiden Flux",
+            "titan": "Hallowfire Heart",
+            "warlock": "Lunafaction Boots"
+        },
+        //Week 8
+        {
+            "location": "Titan",
+            "weapon": "Sweet Business",
+            "hunter": "Lucky Pants",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Aeon Soul"
+        },
+        //Week 9
+        {
+            "location": "Io",
+            "weapon": "The Huckleberry",
+            "hunter": "Gemini Jester",
+            "titan": "Antaeus Wards",
+            "warlock": "Contraverse Hold"
+        },
+        //Week 10
+        {
+            "location": "Tower",
+            "weapon": "The Colony",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Mask of the Quite One",
+            "warlock": "Eye of Another World"
+        },
+        //Week 11
+        {
+            "location": "Titan",
+            "weapon": "D.A.R.C.I.",
+            "hunter": "Celestial Nighthawk",
+            "titan": "Ursa Furiosa",
+            "warlock": "Geomag Stabilizers"
+        },
+        //Week 12
+        {
+            "location": "EDZ",
+            "weapon": "Sweet Business",
+            "hunter": "Raiden Flux",
+            "titan": "One-Eyed Mask",
+            "warlock": "Chromatic Fire"
+        },
+        //Week 13
+        {
+            "location": "Tower",
+            "weapon": "SUROS Regime",
+            "hunter": "Fr0st-EE5",
+            "titan": "Aeon Safe",
+            "warlock": "Wings of Sacred Dawn"
+        }
+    ],
+    //Season 7 Opulence 06/04/2019-10/1/2019
+    [
+        //Week 1
+        {
+            "location": "Nessus",
+            "weapon": "Sweet Business",
+            "hunter": "The Sixth Coyote",
+            "titan": "Ashen Wake",
+            "warlock": "Karnstein Armlets"
+        },
+        //Week 2
+        {
+            "location": "Nessus",
+            "weapon": "The Queenbreaker",
+            "hunter": "Knucklehead Radar",
+            "titan": "ACD/0 Feedback Fence",
+            "warlock": "Geomag Stabilizers"
+        },
+        //Week 3
+        {
+            "location": "EDZ",
+            "weapon": "The Jade Rabbit",
+            "hunter": "Oathkeeper",
+            "titan": "Ursa Furiosa",
+            "warlock": "Phoenix Protocol"
+        },
+        //Week 4
+        {
+            "location": "Tower",
+            "weapon": "Vigilance Wing",
+            "hunter": "St0mp-EE5",
+            "titan": "One-Eyed Mask",
+            "warlock": "Chromatic Fire"
+        },
+        //Week 5
+        {
+            "location": "Nessus",
+            "weapon": "The Huckleberry",
+            "hunter": "Graviton Forfeit",
+            "titan": "Khepri's Horn",
+            "warlock": "Sunbracers"
+        },
+        //Week 6
+        {
+            "location": "Titan",
+            "weapon": "Hard Light",
+            "hunter": "Gemini Jester",
+            "titan": "Helm of Saint-14",
+            "warlock": "Wings of Sacred Dawn"
+        },
+        //Week 7
+        {
+            "location": "Io",
+            "weapon": "Coldheart",
+            "hunter": "Aeon Swift",
+            "titan": "Eternal Warrior",
+            "warlock": "Starfire Protocol"
+        },
+        //Week 8
+        {
+            "location": "EDZ",
+            "weapon": "D.A.R.C.I.",
+            "hunter": "Wormhusk Crown",
+            "titan": "Armamentarium",
+            "warlock": "Vesper of Radius"
+        },
+        //Week 9
+        {
+            "location": "Tower",
+            "weapon": "The Huckleberry",
+            "hunter": "St0mp-EE5",
+            "titan": "One-Eyed Mask",
+            "warlock": "Winter's Guile"
+        },
+        //Week 10
+        {
+            "location": "Nessus",
+            "weapon": "The Colony",
+            "hunter": "Shards of Galanor",
+            "titan": "ACD/0 Feedback Fence",
+            "warlock": "Chromatic Fire"
+        },
+        //Week 11
+        {
+            "location": "Titan",
+            "weapon": "Telesto",
+            "hunter": "Aeon Swift",
+            "titan": "Stronghold",
+            "warlock": "Verity's Brow"
+        },
+        //Week 12
+        {
+            "location": "Nessus",
+            "weapon": "Arbalest",
+            "hunter": "Shinobu's Vow",
+            "titan": "Ashen Wake",
+            "warlock": "Crown of Tempests"
+        },
+        //Week 13
+        {
+            "location": "Titan",
+            "weapon": "Vigilance Wing",
+            "hunter": "Ophidia Spathe",
+            "titan": "Aeon Safe",
+            "warlock": "Chromatic Fire"
+        },
+        //Week 14
+        {
+            "location": "EDZ",
+            "weapon": "Lord of Wolves",
+            "hunter": "Gemini Jester",
+            "titan": "Lion Rampant",
+            "warlock": "Sunbracers"
+        },
+        //Week 15
+        {
+            "location": "Titan",
+            "weapon": "Coldheart",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Hallowfire Heart",
+            "warlock": "Chromatic Fire"
+        },
+        //Week 16
+        {
+            "location": "EDZ",
+            "weapon": "The Colony",
+            "hunter": "Orpheus Rig",
+            "titan": "Ashen Wake",
+            "warlock": "Karnstein Armlets"
+        },
+        //Week 17
+        {
+            "location": "Io",
+            "weapon": "Vigilance Wing",
+            "hunter": "Lucky Pants",
+            "titan": "Helm of Saint-14",
+            "warlock": "Nezarec's Sin"
+        }
+    ],
+    //Season 8 Undying 10/1/2019-12/10/2019
+    [
+        //Week 1
+        {
+            "location": "Nessus",
+            "weapon": "The Wardcliff Coil",
+            "hunter": "The Sixth Coyote",
+            "titan": "ACD/0 Feedback Fence",
+            "warlock": "Nezarec's Sin"
+        },
+        //Week 2
+        {
+            "location": "Tower",
+            "weapon": "The Jade Rabbit",
+            "hunter": "Mechaneer's Tricksleeves",
+            "titan": "Ashen Wake",
+            "warlock": "The Stag"
+        },
+        //Week 3
+        {
+            "location": "Nessus",
+            "weapon": "Telesto",
+            "hunter": "Shards of Galanor",
+            "titan": "Dunemarchers",
+            "warlock": "Transversive Steps"
+        },
+        //Week 4
+        {
+            "location": "Tower",
+            "weapon": "SUROS Regime",
+            "hunter": "Liar's Handshake",
+            "titan": "Synthoceps",
+            "warlock": "Geomag Stabilizers"
+        },
+        //Week 5
+        {
+            "location": "Nessus",
+            "weapon": "Vigilance Wing",
+            "hunter": "Lucky Pants",
+            "titan": "Peacekeepers",
+            "warlock": "Nezarec's Sin"
+        },
+        //Week 6
+        {
+            "location": "Io",
+            "weapon": "Prometheus Lens",
+            "hunter": "Ophidia Spathe",
+            "titan": "Mask of the Quite One",
+            "warlock": "Skull of Dire Ahamkara"
+        },
+        //Week 7
+        {
+            "location": "Tower",
+            "weapon": "Graviton Lance",
+            "hunter": "St0mp-EE5",
+            "titan": "Ursa Furiosa",
+            "warlock": "Transversive Steps"
+        },
+        //Week 8
+        {
+            "location": "Titan",
+            "weapon": "Black Talon",
+            "hunter": "Wormhusk Crown",
+            "titan": "Stronghold",
+            "warlock": "Lunafaction Boots"
+        }
+    ],
+    //Season 9 Dawn 12/10/2019-03/10/2020
+    [
+        //Week 1
+        {
+            "location": "Nessus",
+            "weapon": "Prometheus Lens",
+            "hunter": "Young Ahamkara's Spine",
+            "titan": "Hallowfire Heart",
+            "warlock": "Wings of Sacred Dawn"
+        },
+        //Week 2
+        {
+            "location": "Titan",
+            "weapon": "Two-Tailed Fox",
+            "hunter": "Assassin's Cowl",
+            "titan": "Dunemarchers",
+            "warlock": "Contraverse Hold"
+        },
+        //Week 3
+        {
+            "location": "EDZ",
+            "weapon": "Fighting Lion",
+            "hunter": "Mechaneer's Tricksleeves",
+            "titan": "Mk. 44 Stand Asides",
+            "warlock": "The Stag"
+        },
+        //Week 4
+        {
+            "location": "Io",
+            "weapon": "Lord of Wolves",
+            "hunter": "St0mp-EE5",
+            "titan": "Dunemarchers",
+            "warlock": "Sanguine Alchemy"
+        },
+        //Week 5
+        {
+            "location": "Titan",
+            "weapon": "Black Talon",
+            "hunter": "Lucky Pants",
+            "titan": "Eternal Warrior",
+            "warlock": "Transversive Steps"
+        },
+        //Week 6
+        {
+            "location": "Nessus",
+            "weapon": "The Colony",
+            "hunter": "Shinobu's Vow",
+            "titan": "Mask of the Quite One",
+            "warlock": "Lunafaction Boots"
+        },
+        //Week 7
+        {
+            "location": "Titan",
+            "weapon": "Monte Carlo",
+            "hunter": "Orpheus Rig",
+            "titan": "Actium War Rig",
+            "warlock": "Verity's Brow"
+        },
+        //Week 8
+        {
+            "location": "Io",
+            "weapon": "Fighting Lion",
+            "hunter": "Lucky Pants",
+            "titan": "Peregrine Greaves",
+            "warlock": "Starfire Protocol"
+        },
+        //Week 9
+        {
+            "location": "Tower",
+            "weapon": "Black Talon",
+            "hunter": "Knucklehead Radar",
+            "titan": "Lion Rampant",
+            "warlock": "Aeon Soul"
+        },
+        //Week 10
+        {
+            "location": "Nessus",
+            "weapon": "Tractor Cannon",
+            "hunter": "The Dragon's Shadow",
+            "titan": "Wormgod Caress",
+            "warlock": "Starfire Protocol"
+        },
+        //Week 11
+        {
+            "location": "EDZ",
+            "weapon": "The Colony",
+            "hunter": "Raiden Flux",
+            "titan": "Mask of the Quite One",
+            "warlock": "Crown of Tempests"
+        },
+        //Week 12
+        {
+            "location": "Tower",
+            "weapon": "Sunshot",
+            "hunter": "Aeon Swift",
+            "titan": "Dunemarchers",
+            "warlock": "Eye of Another World"
+        },
+        //Week 13
+        {
+            "location": "Nessus",
+            "weapon": "Prometheus Lens",
+            "hunter": "Lucky Pants",
+            "titan": "Helm of Saint-14",
+            "warlock": "Apotheosis Veil"
+        }
+    ],
+    //Season 10 Worthy 03/10/2020-06/09/2020
+    [
+        //Week 1
+        {
+            "location": "Tower",
+            "weapon": "Coldheart",
+            "hunter": "Lucky Pants",
+            "titan": "Ashen Wake",
+            "warlock": "Chromatic Fire"
+        },
+        //Week 2
+        {
+            "location": "Io",
+            "weapon": "The Queenbreaker",
+            "hunter": "Oathkeeper",
+            "titan": "Mk. 44 Stand Asides",
+            "warlock": "Ophidian Aspect"
+        },
+        //Week 3
+        {
+            "location": "EDZ",
+            "weapon": "The Huckleberry",
+            "hunter": "The Sixth Coyote",
+            "titan": "Crest of Alpha Lupi",
+            "warlock": "Skull of Dire Ahamkara"
+        },
+        //Week 4
+        {
+            "location": "Io",
+            "weapon": "Hard Light",
+            "hunter": "Orpheus Rig",
+            "titan": "Stronghold",
+            "warlock": "Contraverse Hold"
+        },
+        //Week 5
+        {
+            "location": "Titan",
+            "weapon": "The Jade Rabbit",
+            "hunter": "The Sixth Coyote",
+            "titan": "Hallowfire Heart",
+            "warlock": "Geomag Stabilizers"
+        },
+        //Week 6
+        {
+            "location": "Tower",
+            "weapon": "Coldheart",
+            "hunter": "Knucklehead Radar",
+            "titan": "Armamentarium",
+            "warlock": "Crown of Tempests"
+        },
+        //Week 7
+        {
+            "location": "Nessus",
+            "weapon": "Fighting Lion",
+            "hunter": "Celestial Nighthawk",
+            "titan": "Hallowfire Heart",
+            "warlock": "Sanguine Alchemy"
+        },
+        //Week 8
+        {
+            "location": "Titan",
+            "weapon": "Monte Carlo",
+            "hunter": "Khepri's Sting",
+            "titan": "Severance Enclosure",
+            "warlock": "Skull of Dire Ahamkara"
+        },
+        //Week 9
+        {
+            "location": "Nessus",
+            "weapon": "Hard Light",
+            "hunter": "Gwisin Vest",
+            "titan": "Hallowfire Heart",
+            "warlock": "Apotheosis Veil"
+        },
+        //Week 10
+        {
+            "location": "Io",
+            "weapon": "D.A.R.C.I.",
+            "hunter": "The Sixth Coyote",
+            "titan": "Dunemarchers",
+            "warlock": "Claws of Ahamkara"
+        },
+        //Week 11
+        {
+            "location": "Nessus",
+            "weapon": "Cerberus+1",
+            "hunter": "Celestial Nighthawk",
+            "titan": "Mask of the Quite One",
+            "warlock": "Karnstein Armlets"
+        },
+        //Week 12
+        {
+            "location": "Tower",
+            "weapon": "The Prospector",
+            "hunter": "The Bombardiers",
+            "titan": "Doom Fang Pauldron",
+            "warlock": "Crown of Tempests"
+        },
+        //Week 13
+        {
+            "location": "Titan",
+            "weapon": "SUROS Regime",
+            "hunter": "St0mp-EE5",
+            "titan": "Stronghold",
+            "warlock": "Claws of Ahamkara"
+        }
+    ],
+    //Season 11 Arrivals 06/06/2020-11/10/2020
+    [
+        //Week 1
+        {
+            "location": "Nessus",
+            "weapon": "Black Talon",
+            "hunter": {
+                "name": "Raiden Flux",
+                "Mob": 9,
+                "Res": 13,
+                "Rec": 12,
+                "Dis": 7,
+                "Int": 6,
+                "Str": 15
+            },
+            "titan": {
+                "name": "Synthoceps",
+                "Mob": 2,
+                "Res": 11,
+                "Rec": 20,
+                "Dis": 14,
+                "Int": 13,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Prometheum Spur",
+                "Mob": 9,
+                "Res": 10,
+                "Rec": 12,
+                "Dis": 9,
+                "Int": 14,
+                "Str": 6
+            }
+        },
+        //Week 2
+        {
+            "location": "Io",
+            "weapon": "Crimson",
+            "hunter": {
+                "name": "The Dragon's Shadow",
+                "Mob": 10,
+                "Res": 12,
+                "Rec": 12,
+                "Dis": 9,
+                "Int": 14,
+                "Str": 6
+            },
+            "titan": {
+                "name": "Mk. 44 Stand Asides",
+                "Mob": 9,
+                "Res": 14,
+                "Rec": 9,
+                "Dis": 9,
+                "Int": 20,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Starfire Protocol",
+                "Mob": 8,
+                "Res": 7,
+                "Rec": 18,
+                "Dis": 15,
+                "Int": 9,
+                "Str": 7
+            }
+        },
+        //Week 3
+        {
+            "location": "EDZ",
+            "weapon": "The Colony",
+            "hunter": {
+                "name": "Young Ahamkara's Spine",
+                "Mob": 7,
+                "Res": 11,
+                "Rec": 14,
+                "Dis": 6,
+                "Int": 11,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Synthoceps",
+                "Mob": 9,
+                "Res": 8,
+                "Rec": 14,
+                "Dis": 9,
+                "Int": 13,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Phoenix Protocol",
+                "Mob": 10,
+                "Res": 8,
+                "Rec": 15,
+                "Dis": 8,
+                "Int": 14,
+                "Str": 6
+            }
+        },
+        //Week 4
+        {
+            "location": "Tower",
+            "weapon": "The Huckleberry",
+            "hunter": {
+                "name": "Lucky Pants",
+                "Mob": 9,
+                "Res": 14,
+                "Rec": 9,
+                "Dis": 6,
+                "Int": 9,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Mask of the Quiet One",
+                "Mob": 7,
+                "Res": 9,
+                "Rec": 16,
+                "Dis": 2,
+                "Int": 20,
+                "Str": 8
+            },
+            "warlock": {
+                "name": "Lunafaction Boots",
+                "Mob": 9,
+                "Res": 16,
+                "Rec": 8,
+                "Dis": 13,
+                "Int": 12,
+                "Str": 6
+            }
+        },
+        //Week 5
+        {
+            "location": "Nessus",
+            "weapon": "Black Talon",
+            "hunter": {
+                "name": "Mechaneer's Tricksleeves",
+                "Mob": 10,
+                "Res": 13,
+                "Rec": 9,
+                "Dis": 22,
+                "Int": 2,
+                "Str": 7
+            },
+            "titan": {
+                "name": "Dunemarchers",
+                "Mob": 11,
+                "Res": 19,
+                "Rec": 2,
+                "Dis": 6,
+                "Int": 9,
+                "Str": 14
+            },
+            "warlock": {
+                "name": "Claws of Ahamkara",
+                "Mob": 7,
+                "Res": 8,
+                "Rec": 17,
+                "Dis": 9,
+                "Int": 6,
+                "Str": 15
+            }
+        },
+        //Week 6
+        {
+            "location": "Tower",
+            "weapon": "Skyburner's Oath",
+            "hunter": {
+                "name": "Lucky Raspberry",
+                "Mob": 15,
+                "Res": 16,
+                "Rec": 2,
+                "Dis": 16,
+                "Int": 7,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Peacekeepers",
+                "Mob": 8,
+                "Res": 19,
+                "Rec": 6,
+                "Dis": 7,
+                "Int": 2,
+                "Str": 21
+            },
+            "warlock": {
+                "name": "Vesper of Radius",
+                "Mob": 9,
+                "Res": 9,
+                "Rec": 16,
+                "Dis": 11,
+                "Int": 18,
+                "Str": 2
+            }
+        },
+        //Week 7
+        {
+            "location": "Titan",
+            "weapon": "Sunshot",
+            "hunter": {
+                "name": "Liar's Handshake",
+                "Mob": 18,
+                "Res": 10,
+                "Rec": 6,
+                "Dis": 6,
+                "Int": 9,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Eternal Warrior",
+                "Mob": 16,
+                "Res": 9,
+                "Rec": 6,
+                "Dis": 9,
+                "Int": 9,
+                "Str": 12
+            },
+            "warlock": {
+                "name": "Skull of Dire Ahamkara",
+                "Mob": 7,
+                "Res": 9,
+                "Rec": 15,
+                "Dis": 11,
+                "Int": 16,
+                "Str": 2
+            }
+        },
+        //Week 8
+        {
+            "location": "EDZ",
+            "weapon": "Telesto",
+            "hunter": {
+                "name": "Aeon Swift",
+                "Mob": 11,
+                "Res": 7,
+                "Rec": 16,
+                "Dis": 15,
+                "Int": 7,
+                "Str": 10
+            },
+            "titan": {
+                "name": "Lion Rampant",
+                "Mob": 13,
+                "Res": 11,
+                "Rec": 7,
+                "Dis": 11,
+                "Int": 18,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Ophidian Aspect",
+                "Mob": 9,
+                "Res": 14,
+                "Rec": 9,
+                "Dis": 8,
+                "Int": 7,
+                "Str": 14
+            }
+        },
+        //Week 9
+        {
+            "location": "Nessus",
+            "weapon": "Merciless",
+            "hunter": {
+                "name": "Gemini Jester",
+                "Mob": 11,
+                "Res": 14,
+                "Rec": 7,
+                "Dis": 18,
+                "Int": 6,
+                "Str": 9
+            },
+            "titan": {
+                "name": "Peregrine Greaves",
+                "Mob": 15,
+                "Res": 3,
+                "Rec": 14,
+                "Dis": 7,
+                "Int": 17,
+                "Str": 8
+            },
+            "warlock": {
+                "name": "Nezarec's Sin",
+                "Mob": 8,
+                "Res": 15,
+                "Rec": 9,
+                "Dis": 17,
+                "Int": 10,
+                "Str": 6
+            }
+        },
+        //Week 10
+        {
+            "location": "Titan",
+            "weapon": "Graviton Lance",
+            "hunter": {
+                "name": "Ophidia Spathe",
+                "Mob": 8,
+                "Res": 9,
+                "Rec": 17,
+                "Dis": 11,
+                "Int": 2,
+                "Str": 18
+            },
+            "titan": {
+                "name": "Mk. 44 Stand Asides",
+                "Mob": 9,
+                "Res": 3,
+                "Rec": 21,
+                "Dis": 12,
+                "Int": 6,
+                "Str": 13
+            },
+            "warlock": {
+                "name": "Skull of Dire Ahamkara",
+                "Mob": 14,
+                "Res": 3,
+                "Rec": 15,
+                "Dis": 13,
+                "Int": 6,
+                "Str": 9
+            }
+        },
+        //Week 11
+        {
+            "location": "EDZ",
+            "weapon": "Lord of Wolves",
+            "hunter": {
+                "name": "Young Ahamkara's Spine",
+                "Mob": 9,
+                "Res": 17,
+                "Rec": 7,
+                "Dis": 10,
+                "Int": 12,
+                "Str": 10
+            },
+            "titan": {
+                "name": "Eternal Warrior",
+                "Mob": 10,
+                "Res": 8,
+                "Rec": 14,
+                "Dis": 10,
+                "Int": 10,
+                "Str": 11
+            },
+            "warlock": {
+                "name": "Astrocyte Verse",
+                "Mob": 15,
+                "Res": 9,
+                "Rec": 7,
+                "Dis": 7,
+                "Int": 14,
+                "Str": 8
+            }
+        },
+        //Week 12
+        {
+            "location": "Titan",
+            "weapon": "Sunshot",
+            "hunter": {
+                "name": "Gwisin Vest",
+                "Mob": 10,
+                "Res": 15,
+                "Rec": 8,
+                "Dis": 9,
+                "Int": 9,
+                "Str": 12
+            },
+            "titan": {
+                "name": "Actium War Rig",
+                "Mob": 19,
+                "Res": 3,
+                "Rec": 12,
+                "Dis": 9,
+                "Int": 13,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Contraverse Hold",
+                "Mob": 10,
+                "Res": 9,
+                "Rec": 12,
+                "Dis": 9,
+                "Int": 6,
+                "Str": 15
+            }
+        },
+        //Week 13
+        {
+            "location": "Nessus",
+            "weapon": "Merciless",
+            "hunter": {
+                "name": "Foetracer",
+                "Mob": 16,
+                "Res": 6,
+                "Rec": 9,
+                "Dis": 7,
+                "Int": 16,
+                "Str": 7
+            },
+            "titan": {
+                "name": "Aeon Safe",
+                "Mob": 20,
+                "Res": 4,
+                "Rec": 10,
+                "Dis": 2,
+                "Int": 19,
+                "Str": 11
+            },
+            "warlock": {
+                "name": "Wings of Sacred Dawn",
+                "Mob": 18,
+                "Res": 7,
+                "Rec": 7,
+                "Dis": 17,
+                "Int": 6,
+                "Str": 7
+            }
+        },
+        //Week 14
+        {
+            "location": "EDZ",
+            "weapon": "The Prospector",
+            "hunter": {
+                "name": "Ophidia Spathe",
+                "Mob": 16,
+                "Res": 2,
+                "Rec": 15,
+                "Dis": 13,
+                "Int": 6,
+                "Str": 9
+            },
+            "titan": {
+                "name": "Doom Fang Pauldron",
+                "Mob": 7,
+                "Res": 3,
+                "Rec": 22,
+                "Dis": 7,
+                "Int": 2,
+                "Str": 20
+            },
+            "warlock": {
+                "name": "The Stag",
+                "Mob": 14,
+                "Res": 13,
+                "Rec": 4,
+                "Dis": 14,
+                "Int": 12,
+                "Str": 7
+            }
+        },
+        //Week 15
+        {
+            "location": "Io",
+            "weapon": "Riskrunner",
+            "hunter": {
+                "name": "Young Ahamkara's Spine",
+                "Mob": 13,
+                "Res": 10,
+                "Rec": 8,
+                "Dis": 2,
+                "Int": 13,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Wormgod Caress",
+                "Mob": 6,
+                "Res": 8,
+                "Rec": 17,
+                "Dis": 9,
+                "Int": 10,
+                "Str": 10
+            },
+            "warlock": {
+                "name": "Apotheosis Veil",
+                "Mob": 14,
+                "Res": 8,
+                "Rec": 10,
+                "Dis": 20,
+                "Int": 2,
+                "Str": 9
+            }
+        },
+        //Week 16
+        {
+            "location": "EDZ",
+            "weapon": "Telesto",
+            "hunter": {
+                "name": "Orpheus Rig",
+                "Mob": 14,
+                "Res": 6,
+                "Rec": 11,
+                "Dis": 8,
+                "Int": 7,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Citan's Ramparts",
+                "Mob": 6,
+                "Res": 12,
+                "Rec": 13,
+                "Dis": 2,
+                "Int": 18,
+                "Str": 11
+            },
+            "warlock": {
+                "name": "Lunafaction Boots",
+                "Mob": 15,
+                "Res": 3,
+                "Rec": 14,
+                "Dis": 23,
+                "Int": 7,
+                "Str": 2
+            }
+        },
+        //Week 17
+        {
+            "location": "Io",
+            "weapon": "Hard Light",
+            "hunter": {
+                "name": "Ophidia Spathe",
+                "Mob": 12,
+                "Res": 12,
+                "Rec": 10,
+                "Dis": 7,
+                "Int": 16,
+                "Str": 7
+            },
+            "titan": {
+                "name": "Mask of the Quiet One",
+                "Mob": 7,
+                "Res": 19,
+                "Rec": 6,
+                "Dis": 7,
+                "Int": 14,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Skull of Dire Ahamkara",
+                "Mob": 10,
+                "Res": 7,
+                "Rec": 16,
+                "Dis": 13,
+                "Int": 9,
+                "Str": 9
+            }
+        },
+        //Week 18
+        {
+            "location": "EDZ",
+            "weapon": "The Wardcliff Coil",
+            "hunter": {
+                "name": "Wormhusk Crown",
+                "Mob": 9,
+                "Res": 6,
+                "Rec": 17,
+                "Dis": 22,
+                "Int": 7,
+                "Str": 2
+            },
+            "titan": {
+                "name": "One-Eyed Mask",
+                "Mob": 14,
+                "Res": 9,
+                "Rec": 8,
+                "Dis": 15,
+                "Int": 12,
+                "Str": 6
+            },
+            "warlock": {
+                "name": "Felwinter's Helm",
+                "Mob": 6,
+                "Res": 14,
+                "Rec": 12,
+                "Dis": 6,
+                "Int": 14,
+                "Str": 10
+            }
+        },
+        //Week 19
+        {
+            "location": "Io",
+            "weapon": "The Queenbreaker",
+            "hunter": {
+                "name": "Lucky Raspberry",
+                "Mob": 9,
+                "Res": 13,
+                "Rec": 10,
+                "Dis": 12,
+                "Int": 10,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Dunemarchers",
+                "Mob": 16,
+                "Res": 3,
+                "Rec": 13,
+                "Dis": 14,
+                "Int": 13,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Getaway Artist",
+                "Mob": 6,
+                "Res": 7,
+                "Rec": 18,
+                "Dis": 18,
+                "Int": 9,
+                "Str": 2
+            }
+        },
+        //Week 20
+        {
+            "location": "EDZ",
+            "weapon": "Cerberus+1",
+            "hunter": {
+                "name": "Lucky Pants",
+                "Mob": 15,
+                "Res": 3,
+                "Rec": 13,
+                "Dis": 13,
+                "Int": 16,
+                "Str": 2
+            },
+            "titan": {
+                "name": "Heart of Inmost Light",
+                "Mob": 10,
+                "Res": 14,
+                "Rec": 9,
+                "Dis": 13,
+                "Int": 9,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Felwinter's Helm",
+                "Mob": 10,
+                "Res": 6,
+                "Rec": 15,
+                "Dis": 9,
+                "Int": 15,
+                "Str": 6
+            }
+        },
+        //Week 21
+        {
+            "location": "Titan",
+            "weapon": "Skyburner's Oath",
+            "hunter": {
+                "name": "Ophidia Spathe",
+                "Mob": 4,
+                "Res": 9,
+                "Rec": 21,
+                "Dis": 9,
+                "Int": 14,
+                "Str": 6
+            },
+            "titan": {
+                "name": "Eternal Warrior",
+                "Mob": 2,
+                "Res": 11,
+                "Rec": 19,
+                "Dis": 15,
+                "Int": 6,
+                "Str": 7
+            },
+            "warlock": {
+                "name": "Trasversive Steps",
+                "Mob": 14,
+                "Res": 12,
+                "Rec": 7,
+                "Dis": 18,
+                "Int": 9,
+                "Str": 2
+            }
+        },
+        //Week 22
+        {
+            "location": "Io",
+            "weapon": "Fighting Lion",
+            "hunter": {
+                "name": "Wormhusk Crown",
+                "Mob": 16,
+                "Res": 8,
+                "Rec": 8,
+                "Dis": 11,
+                "Int": 16,
+                "Str": 2
+            },
+            "titan": {
+                "name": "Actium War Rig",
+                "Mob": 10,
+                "Res": 8,
+                "Rec": 14,
+                "Dis": 9,
+                "Int": 13,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Promethium Spur",
+                "Mob": 17,
+                "Res": 6,
+                "Rec": 8,
+                "Dis": 7,
+                "Int": 14,
+                "Str": 10
+            }
+        }
+    ],
+    //Season 12 Hunt 11/10/2020-02/09/2021
+    [
+        //Week 1
+        {
+            "location": "Tower",
+            "weapon": "Lord of Wolves",
+            "hunter": {
+                "name": "Raiden Flux",
+                "Mob": 16,
+                "Res": 9,
+                "Rec": 7,
+                "Dis": 13,
+                "Int": 9,
+                "Str": 9
+            },
+            "titan": {
+                "name": "Aeon Safe",
+                "Mob": 8,
+                "Res": 12,
+                "Rec": 13,
+                "Dis": 14,
+                "Int": 14,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Chromatic Fire",
+                "Mob": 8,
+                "Res": 8,
+                "Rec": 17,
+                "Dis": 13,
+                "Int": 2,
+                "Str": 13
+            }
+        },
+        //Week 2
+        {
+            "location": "Nessus",
+            "weapon": "Skyburner's Oath",
+            "hunter": {
+                "name": "Aeon Swift",
+                "Mob": 7,
+                "Res": 15,
+                "Rec": 11,
+                "Dis": 10,
+                "Int": 6,
+                "Str": 13
+            },
+            "titan": {
+                "name": "Synthoceps",
+                "Mob": 14,
+                "Res": 7,
+                "Rec": 10,
+                "Dis": 2,
+                "Int": 15,
+                "Str": 13
+            },
+            "warlock": {
+                "name": "Karnstein Armlets",
+                "Mob": 8,
+                "Res": 15,
+                "Rec": 9,
+                "Dis": 6,
+                "Int": 17,
+                "Str": 6
+            }
+        },
+        //Week 3
+        {
+            "location": "Tower",
+            "weapon": "Hard Light",
+            "hunter": {
+                "name": "Khepri's Sting",
+                "Mob": 7,
+                "Res": 8,
+                "Rec": 16,
+                "Dis": 7,
+                "Int": 13,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Lion Rampant",
+                "Mob": 9,
+                "Res": 9,
+                "Rec": 15,
+                "Dis": 6,
+                "Int": 2,
+                "Str": 21
+            },
+            "warlock": {
+                "name": "Phoenix Protocol",
+                "Mob": 11,
+                "Res": 6,
+                "Rec": 17,
+                "Dis": 2,
+                "Int": 14,
+                "Str": 12
+            }
+        },
+        //Week 4
+        {
+            "location": "EDZ",
+            "weapon": "The Wardcliff Coil",
+            "hunter": {
+                "name": "Graviton Forfeit",
+                "Mob": 10,
+                "Res": 9,
+                "Rec": 14,
+                "Dis": 7,
+                "Int": 14,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Citan's Ramparts",
+                "Mob": 2,
+                "Res": 14,
+                "Rec": 13,
+                "Dis": 14,
+                "Int": 2,
+                "Str": 14
+            },
+            "warlock": {
+                "name": "Verity's Brow",
+                "Mob": 12,
+                "Res": 15,
+                "Rec": 4,
+                "Dis": 9,
+                "Int": 14,
+                "Str": 6
+            }
+        },
+        //Week 5
+        {
+            "location": "Tower",
+            "weapon": "Trinity Ghoul",
+            "hunter": {
+                "name": "Gwisin Vest",
+                "Mob": 14,
+                "Res": 3,
+                "Rec": 16,
+                "Dis": 2,
+                "Int": 12,
+                "Str": 15
+            },
+            "titan": {
+                "name": "Armamentarium",
+                "Mob": 2,
+                "Res": 28,
+                "Rec": 3,
+                "Dis": 10,
+                "Int": 10,
+                "Str": 12
+            },
+            "warlock": {
+                "name": "Vesper of Radius",
+                "Mob": 10,
+                "Res": 15,
+                "Rec": 8,
+                "Dis": 12,
+                "Int": 2,
+                "Str": 16
+            }
+        },
+        //Week 6
+        {
+            "location": "EDZ",
+            "weapon": "The Jade Rabbit",
+            "hunter": {
+                "name": "Foetracer",
+                "Mob": 14,
+                "Res": 18,
+                "Rec": 2,
+                "Dis": 8,
+                "Int": 8,
+                "Str": 12
+            },
+            "titan": {
+                "name": "Severance Enclosure",
+                "Mob": 9,
+                "Res": 8,
+                "Rec": 11,
+                "Dis": 7,
+                "Int": 15,
+                "Str": 8
+            },
+            "warlock": {
+                "name": "Felwinter's Helm",
+                "Mob": 9,
+                "Res": 7,
+                "Rec": 16,
+                "Dis": 7,
+                "Int": 9,
+                "Str": 14
+            }
+        },
+        //Week 7
+        {
+            "location": "Tower",
+            "weapon": "D.A.R.C.I.",
+            "hunter": {
+                "name": "The Sixth Coyote",
+                "Mob": 7,
+                "Res": 9,
+                "Rec": 18,
+                "Dis": 6,
+                "Int": 2,
+                "Str": 22
+            },
+            "titan": {
+                "name": "Ashen Wake",
+                "Mob": 2,
+                "Res": 12,
+                "Rec": 18,
+                "Dis": 2,
+                "Int": 14,
+                "Str": 16
+            },
+            "warlock": {
+                "name": "Karnstein Armlets",
+                "Mob": 7,
+                "Res": 14,
+                "Rec": 9,
+                "Dis": 10,
+                "Int": 14,
+                "Str": 6
+            }
+        },
+        //Week 8
+        {
+            "location": "Nessus",
+            "weapon": "Merciless",
+            "hunter": {
+                "name": "The Bombardiers",
+                "Mob": 9,
+                "Res": 8,
+                "Rec": 14,
+                "Dis": 9,
+                "Int": 8,
+                "Str": 13
+            },
+            "titan": {
+                "name": "One-Eyed Mask",
+                "Mob": 16,
+                "Res": 7,
+                "Rec": 7,
+                "Dis": 6,
+                "Int": 12,
+                "Str": 14
+            },
+            "warlock": {
+                "name": "Astrocyte Verse",
+                "Mob": 29,
+                "Res": 2,
+                "Rec": 3,
+                "Dis": 7,
+                "Int": 15,
+                "Str": 7
+            }
+        },
+        //Week 9
+        {
+            "location": "EDZ",
+            "weapon": "Telesto",
+            "hunter": {
+                "name": "Sealed Ahamkara Grasps",
+                "Mob": 3,
+                "Res": 16,
+                "Rec": 14,
+                "Dis": 6,
+                "Int": 12,
+                "Str": 15
+            },
+            "titan": {
+                "name": "Antaeus Wards",
+                "Mob": 19,
+                "Res": 7,
+                "Rec": 7,
+                "Dis": 6,
+                "Int": 2,
+                "Str": 22
+            },
+            "warlock": {
+                "name": "Getaway Artist",
+                "Mob": 2,
+                "Res": 12,
+                "Rec": 18,
+                "Dis": 7,
+                "Int": 14,
+                "Str": 9
+            }
+        },
+        //Week 10
+        {
+            "location": "Tower",
+            "weapon": "Arbalest",
+            "hunter": {
+                "name": "Oathkeeper",
+                "Mob": 17,
+                "Res": 2,
+                "Rec": 15,
+                "Dis": 12,
+                "Int": 10,
+                "Str": 7
+            },
+            "titan": {
+                "name": "ACD/0 Feedback Fence",
+                "Mob": 7,
+                "Res": 14,
+                "Rec": 10,
+                "Dis": 7,
+                "Int": 15,
+                "Str": 10
+            },
+            "warlock": {
+                "name": "The Stag",
+                "Mob": 18,
+                "Res": 12,
+                "Rec": 4,
+                "Dis": 13,
+                "Int": 8,
+                "Str": 9
+            }
+        },
+        //Week 11
+        {
+            "location": "EDZ",
+            "weapon": "Skyburner's Oath",
+            "hunter": {
+                "name": "Lucky Raspberry",
+                "Mob": 15,
+                "Res": 7,
+                "Rec": 9,
+                "Dis": 15,
+                "Int": 6,
+                "Str": 9
+            },
+            "titan": {
+                "name": "Actium War Rig",
+                "Mob": 29,
+                "Res": 3,
+                "Rec": 3,
+                "Dis": 15,
+                "Int": 6,
+                "Str": 10
+            },
+            "warlock": {
+                "name": "Karnstein Armlets",
+                "Mob": 8,
+                "Res": 20,
+                "Rec": 7,
+                "Dis": 15,
+                "Int": 2,
+                "Str": 13
+            }
+        },
+        //Week 12
+        {
+            "location": "Nessus",
+            "weapon": "Graviton Lance",
+            "hunter": {
+                "name": "Shinobu's Vow",
+                "Mob": 3,
+                "Res": 11,
+                "Rec": 18,
+                "Dis": 9,
+                "Int": 14,
+                "Str": 7
+            },
+            "titan": {
+                "name": "Armamentarium",
+                "Mob": 15,
+                "Res": 8,
+                "Rec": 11,
+                "Dis": 6,
+                "Int": 19,
+                "Str": 7
+            },
+            "warlock": {
+                "name": "Getaway Artist",
+                "Mob": 2,
+                "Res": 27,
+                "Rec": 3,
+                "Dis": 10,
+                "Int": 10,
+                "Str": 10
+            }
+        },
+        //Week 13
+        {
+            "location": "EDZ",
+            "weapon": "Telesto",
+            "hunter": {
+                "name": "Gwisin Vest",
+                "Mob": 14,
+                "Res": 3,
+                "Rec": 16,
+                "Dis": 7,
+                "Int": 13,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Severance Enclosure",
+                "Mob": 14,
+                "Res": 7,
+                "Rec": 9,
+                "Dis": 18,
+                "Int": 9,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Sunbracers",
+                "Mob": 11,
+                "Res": 16,
+                "Rec": 3,
+                "Dis": 15,
+                "Int": 10,
+                "Str": 6
+            }
+        }
+    ],
+    //Season 13 Chosen 02/09/2021-05/11/2021
+    [
+        //Week 1
+        {
+            "location": "Tower",
+            "weapon": "Hard Light",
+            "hunter": {
+                "name": "Young Ahamkara's Spine",
+                "Mob": 10,
+                "Res": 14,
+                "Rec": 7,
+                "Dis": 12,
+                "Int": 10,
+                "Str": 9
+            },
+            "titan": {
+                "name": "Dunemarchers",
+                "Mob": 8,
+                "Res": 13,
+                "Rec": 10,
+                "Dis": 9,
+                "Int": 6,
+                "Str": 15
+            },
+            "warlock": {
+                "name": "Felwinter's Helm",
+                "Mob": 18,
+                "Res": 6,
+                "Rec": 6,
+                "Dis": 14,
+                "Int": 2,
+                "Str": 14
+            }
+        },
+        //Week 2
+        {
+            "location": "EDZ",
+            "weapon": "Crimson",
+            "hunter": {
+                "name": "St0mp-EE5",
+                "Mob": 12,
+                "Res": 18,
+                "Rec": 2,
+                "Dis": 8,
+                "Int": 9,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Ursa Furiosa",
+                "Mob": 15,
+                "Res": 4,
+                "Rec": 13,
+                "Dis": 7,
+                "Int": 14,
+                "Str": 10
+            },
+            "warlock": {
+                "name": "Chromatic Fire",
+                "Mob": 14,
+                "Res": 4,
+                "Rec": 15,
+                "Dis": 2,
+                "Int": 17,
+                "Str": 13
+            }
+        },
+        //Week 3
+        {
+            "location": "Nessus",
+            "weapon": "Monte Carlo",
+            "hunter": {
+                "name": "Fr0st-EE5",
+                "Mob": 9,
+                "Res": 8,
+                "Rec": 15,
+                "Dis": 9,
+                "Int": 19,
+                "Str": 2
+            },
+            "titan": {
+                "name": "Antaeus Wards",
+                "Mob": 8,
+                "Res": 16,
+                "Rec": 7,
+                "Dis": 6,
+                "Int": 13,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Vesper of Radius",
+                "Mob": 8,
+                "Res": 15,
+                "Rec": 10,
+                "Dis": 9,
+                "Int": 15,
+                "Str": 6
+            }
+        },
+        //Week 4
+        {
+            "location": "EDZ",
+            "weapon": "Telesto",
+            "hunter": {
+                "name": "Foetracer",
+                "Mob": 11,
+                "Res": 6,
+                "Rec": 16,
+                "Dis": 12,
+                "Int": 10,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Mk. 44 Stand Asides",
+                "Mob": 11,
+                "Res": 10,
+                "Rec": 10,
+                "Dis": 12,
+                "Int": 10,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Phoenix Protocol",
+                "Mob": 16,
+                "Res": 9,
+                "Rec": 7,
+                "Dis": 16,
+                "Int": 11,
+                "Str": 2
+            }
+        },
+        //Week 5
+        {
+            "location": "Tower",
+            "weapon": "Monte Carlo",
+            "hunter": {
+                "name": "Knucklehead Radar",
+                "Mob": 9,
+                "Res": 3,
+                "Rec": 21,
+                "Dis": 8,
+                "Int": 9,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Synthoceps",
+                "Mob": 14,
+                "Res": 15,
+                "Rec": 3,
+                "Dis": 15,
+                "Int": 2,
+                "Str": 11
+            },
+            "warlock": {
+                "name": "Winter's Guile",
+                "Mob": 11,
+                "Res": 10,
+                "Rec": 10,
+                "Dis": 6,
+                "Int": 25,
+                "Str": 2
+            }
+        },
+        //Week 6
+        {
+            "location": "Nessus",
+            "weapon": "Trinity Ghoul",
+            "hunter": {
+                "name": "Aeon Swift",
+                "Mob": 9,
+                "Res": 14,
+                "Rec": 10,
+                "Dis": 8,
+                "Int": 14,
+                "Str": 7
+            },
+            "titan": {
+                "name": "Khepri's Horn",
+                "Mob": 9,
+                "Res": 8,
+                "Rec": 14,
+                "Dis": 12,
+                "Int": 6,
+                "Str": 16
+            },
+            "warlock": {
+                "name": "Sanguine Alchemy",
+                "Mob": 6,
+                "Res": 10,
+                "Rec": 18,
+                "Dis": 15,
+                "Int": 7,
+                "Str": 8
+            }
+        },
+        //Week 7
+        {
+            "location": "Tower",
+            "weapon": "Sweet Business",
+            "hunter": {
+                "name": "Lucky Raspberry",
+                "Mob": 9,
+                "Res": 11,
+                "Rec": 13,
+                "Dis": 13,
+                "Int": 13,
+                "Str": 2
+            },
+            "titan": {
+                "name": "One-Eyed Mask",
+                "Mob": 14,
+                "Res": 8,
+                "Rec": 9,
+                "Dis": 13,
+                "Int": 2,
+                "Str": 13
+            },
+            "warlock": {
+                "name": "Chromatic Fire",
+                "Mob": 7,
+                "Res": 11,
+                "Rec": 14,
+                "Dis": 2,
+                "Int": 13,
+                "Str": 13
+            }
+        },
+        //Week 8
+        {
+            "location": "Nessus",
+            "weapon": "Arbalest",
+            "hunter": {
+                "name": "Orpheus Rig",
+                "Mob": 12,
+                "Res": 12,
+                "Rec": 9,
+                "Dis": 8,
+                "Int": 13,
+                "Str": 7
+            },
+            "titan": {
+                "name": "Lion Rampant",
+                "Mob": 9,
+                "Res": 13,
+                "Rec": 10,
+                "Dis": 9,
+                "Int": 10,
+                "Str": 10
+            },
+            "warlock": {
+                "name": "Aeon Soul",
+                "Mob": 10,
+                "Res": 11,
+                "Rec": 11,
+                "Dis": 7,
+                "Int": 6,
+                "Str": 15
+            }
+        },
+        //Week 9
+        {
+            "location": "EDZ",
+            "weapon": "The Prospector",
+            "hunter": {
+                "name": "Wormhusk Crown",
+                "Mob": 15,
+                "Res": 10,
+                "Rec": 7,
+                "Dis": 2,
+                "Int": 15,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Mk. 44 Stand Asides",
+                "Mob": 19,
+                "Res": 13,
+                "Rec": 2,
+                "Dis": 18,
+                "Int": 9,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Felwinter's Helm",
+                "Mob": 9,
+                "Res": 14,
+                "Rec": 7,
+                "Dis": 16,
+                "Int": 7,
+                "Str": 8
+            }
+        },
+        //Week 10
+        {
+            "location": "Tower",
+            "weapon": "The Jade Rabbit",
+            "hunter": {
+                "name": "Lucky Raspberry",
+                "Mob": 13,
+                "Res": 13,
+                "Rec": 8,
+                "Dis": 6,
+                "Int": 9,
+                "Str": 16
+            },
+            "titan": {
+                "name": "Ashen Wake",
+                "Mob": 6,
+                "Res": 9,
+                "Rec": 17,
+                "Dis": 6,
+                "Int": 13,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Starfire Protocol",
+                "Mob": 9,
+                "Res": 7,
+                "Rec": 16,
+                "Dis": 2,
+                "Int": 7,
+                "Str": 22
+            }
+        },
+        //Week 11
+        {
+            "location": "Tower",
+            "weapon": "Prometheus Lens",
+            "hunter": {
+                "name": "Orpheus Rig",
+                "Mob": 15,
+                "Res": 15,
+                "Rec": 2,
+                "Dis": 7,
+                "Int": 14,
+                "Str": 9
+            },
+            "titan": {
+                "name": "Citan's Ramparts",
+                "Mob": 16,
+                "Res": 14,
+                "Rec": 2,
+                "Dis": 15,
+                "Int": 9,
+                "Str": 7
+            },
+            "warlock": {
+                "name": "The Stag",
+                "Mob": 6,
+                "Res": 9,
+                "Rec": 18,
+                "Dis": 14,
+                "Int": 14,
+                "Str": 2
+            }
+        },
+        //Week 12
+        {
+            "location": "Tower",
+            "weapon": "Arbalest",
+            "hunter": {
+                "name": "Graviton Forfeit",
+                "Mob": 17,
+                "Res": 2,
+                "Rec": 15,
+                "Dis": 12,
+                "Int": 11,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Mk. 44 Stand Asides",
+                "Mob": 10,
+                "Res": 15,
+                "Rec": 7,
+                "Dis": 16,
+                "Int": 7,
+                "Str": 8
+            },
+            "warlock": {
+                "name": "Astrocyte Verse",
+                "Mob": 11,
+                "Res": 8,
+                "Rec": 12,
+                "Dis": 2,
+                "Int": 7,
+                "Str": 20
+            }
+        },
+        //Week 13
+        {
+            "location": "Tower",
+            "weapon": "Skyburner's Oath",
+            "hunter": {
+                "name": "Gwisin Vest",
+                "Mob": 14,
+                "Res": 12,
+                "Rec": 6,
+                "Dis": 6,
+                "Int": 18,
+                "Str": 6
+            },
+            "titan": {
+                "name": "Mask of the Quiet One",
+                "Mob": 15,
+                "Res": 10,
+                "Rec": 7,
+                "Dis": 18,
+                "Int": 11,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Vesper of Radius",
+                "Mob": 7,
+                "Res": 10,
+                "Rec": 16,
+                "Dis": 7,
+                "Int": 16,
+                "Str": 7
+            }
+        }
+    ],
+    //Season 14 Splicer 05/11/2021-08/24/2021
+    [
+        //Week 1
+        {
+            "location": "Nessus",
+            "weapon": "The Jade Rabbit",
+            "hunter": {
+                "name": "Ophidia Spathe",
+                "Mob": 17,
+                "Res": 10,
+                "Rec": 7,
+                "Dis": 7,
+                "Int": 2,
+                "Str": 20
+            },
+            "titan": {
+                "name": "Mask of the Quiet One",
+                "Mob": 2,
+                "Res": 14,
+                "Rec": 18,
+                "Dis": 17,
+                "Int": 2,
+                "Str": 11
+            },
+            "warlock": {
+                "name": "Skull of Dire Ahamkara",
+                "Mob": 14,
+                "Res": 17,
+                "Rec": 3,
+                "Dis": 8,
+                "Int": 17,
+                "Str": 7
+            }
+        },
+        //Week 2
+        {
+            "location": "Tower",
+            "weapon": "Monte Carlo",
+            "hunter": {
+                "name": "Gemini Jester",
+                "Mob": 18,
+                "Res": 2,
+                "Rec": 12,
+                "Dis": 14,
+                "Int": 7,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Dunemarchers",
+                "Mob": 3,
+                "Res": 11,
+                "Rec": 18,
+                "Dis": 7,
+                "Int": 12,
+                "Str": 10
+            },
+            "warlock": {
+                "name": "Astrocyte Verse",
+                "Mob": 15,
+                "Res": 16,
+                "Rec": 3,
+                "Dis": 8,
+                "Int": 7,
+                "Str": 17
+            }
+        },
+        //Week 3
+        {
+            "location": "EDZ",
+            "weapon": "Sweet Business",
+            "hunter": {
+                "name": "Lucky Raspberry",
+                "Mob": 10,
+                "Res": 15,
+                "Rec": 8,
+                "Dis": 22,
+                "Int": 2,
+                "Str": 6
+            },
+            "titan": {
+                "name": "ACD/0 Feedback Fence",
+                "Mob": 10,
+                "Res": 4,
+                "Rec": 22,
+                "Dis": 14,
+                "Int": 16,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Apotheosis Veil",
+                "Mob": 14,
+                "Res": 13,
+                "Rec": 3,
+                "Dis": 9,
+                "Int": 13,
+                "Str": 7
+            }
+        },
+        //Week 4
+        {
+            "location": "Nessus",
+            "weapon": "Hard Light",
+            "hunter": {
+                "name": "Young Ahamkara's Spine",
+                "Mob": 12,
+                "Res": 3,
+                "Rec": 17,
+                "Dis": 13,
+                "Int": 2,
+                "Str": 17
+            },
+            "titan": {
+                "name": "Crest of Alpha Lupi",
+                "Mob": 13,
+                "Res": 11,
+                "Rec": 8,
+                "Dis": 8,
+                "Int": 6,
+                "Str": 16
+            },
+            "warlock": {
+                "name": "Eye of Another World",
+                "Mob": 7,
+                "Res": 2,
+                "Rec": 22,
+                "Dis": 17,
+                "Int": 2,
+                "Str": 11
+            }
+        },
+        //Week 5
+        {
+            "location": "Tower",
+            "weapon": "Two-Tailed Fox",
+            "hunter": {
+                "name": "St0mp-EE5",
+                "Mob": 18,
+                "Res": 10,
+                "Rec": 2,
+                "Dis": 2,
+                "Int": 14,
+                "Str": 13
+            },
+            "titan": {
+                "name": "Severance Enclosure",
+                "Mob": 6,
+                "Res": 14,
+                "Rec": 12,
+                "Dis": 6,
+                "Int": 21,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Chromatic Fire",
+                "Mob": 2,
+                "Res": 16,
+                "Rec": 15,
+                "Dis": 13,
+                "Int": 8,
+                "Str": 10
+            }
+        },
+        //Week 6
+        {
+            "location": "Nessus",
+            "weapon": "The Jade Rabbit",
+            "hunter": {
+                "name": "Mechaneer's Tricksleeves",
+                "Mob": 12,
+                "Res": 18,
+                "Rec": 2,
+                "Dis": 12,
+                "Int": 7,
+                "Str": 10
+            },
+            "titan": {
+                "name": "Synthoceps",
+                "Mob": 14,
+                "Res": 8,
+                "Rec": 9,
+                "Dis": 8,
+                "Int": 7,
+                "Str": 13
+            },
+            "warlock": {
+                "name": "Trasversive Steps",
+                "Mob": 3,
+                "Res": 14,
+                "Rec": 17,
+                "Dis": 16,
+                "Int": 6,
+                "Str": 8
+            }
+        },
+        //Week 7
+        {
+            "location": "EDZ",
+            "weapon": "Cerberus+1",
+            "hunter": {
+                "name": "Raiden Flux",
+                "Mob": 8,
+                "Res": 17,
+                "Rec": 7,
+                "Dis": 12,
+                "Int": 15,
+                "Str": 2
+            },
+            "titan": {
+                "name": "Crest of Alpha Lupi",
+                "Mob": 11,
+                "Res": 10,
+                "Rec": 10,
+                "Dis": 19,
+                "Int": 12,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Nezarec's Sin",
+                "Mob": 10,
+                "Res": 3,
+                "Rec": 23,
+                "Dis": 12,
+                "Int": 13,
+                "Str": 7
+            }
+        },
+        //Week 8
+        {
+            "location": "Tower",
+            "weapon": "The Huckleberry",
+            "hunter": {
+                "name": "Knucklehead Radar",
+                "Mob": 18,
+                "Res": 13,
+                "Rec": 2,
+                "Dis": 9,
+                "Int": 13,
+                "Str": 7
+            },
+            "titan": {
+                "name": "Antaeus Wards",
+                "Mob": 19,
+                "Res": 2,
+                "Rec": 13,
+                "Dis": 2,
+                "Int": 19,
+                "Str": 10
+            },
+            "warlock": {
+                "name": "Chromatic Fire",
+                "Mob": 2,
+                "Res": 12,
+                "Rec": 17,
+                "Dis": 19,
+                "Int": 10,
+                "Str": 2
+            }
+        },
+        //Week 9
+        {
+            "location": "Nessus",
+            "weapon": "Fighting Lion",
+            "hunter": {
+                "name": "The Sixth Coyote",
+                "Mob": 23,
+                "Res": 3,
+                "Rec": 11,
+                "Dis": 13,
+                "Int": 7,
+                "Str": 9
+            },
+            "titan": {
+                "name": "Armamentarium",
+                "Mob": 14,
+                "Res": 14,
+                "Rec": 3,
+                "Dis": 13,
+                "Int": 16,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Wings of Sacred Dawn",
+                "Mob": 4,
+                "Res": 12,
+                "Rec": 17,
+                "Dis": 7,
+                "Int": 10,
+                "Str": 14
+            }
+        },
+        //Week 10
+        {
+            "location": "Tower",
+            "weapon": "Sunshot",
+            "hunter": {
+                "name": "Ophidia Spathe",
+                "Mob": 16,
+                "Res": 12,
+                "Rec": 3,
+                "Dis": 2,
+                "Int": 6,
+                "Str": 26
+            },
+            "titan": {
+                "name": "Severance Enclosure",
+                "Mob": 14,
+                "Res": 2,
+                "Rec": 13,
+                "Dis": 12,
+                "Int": 16,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Ophidian Aspect",
+                "Mob": 3,
+                "Res": 10,
+                "Rec": 17,
+                "Dis": 6,
+                "Int": 15,
+                "Str": 10
+            }
+        },
+        //Week 11
+        {
+            "location": "Nessus",
+            "weapon": "The Huckleberry",
+            "hunter": {
+                "name": "Liar's Handshake",
+                "Mob": 4,
+                "Res": 10,
+                "Rec": 22,
+                "Dis": 13,
+                "Int": 2,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Mk. 44 Stand Asides",
+                "Mob": 17,
+                "Res": 3,
+                "Rec": 12,
+                "Dis": 9,
+                "Int": 11,
+                "Str": 10
+            },
+            "warlock": {
+                "name": "Karnstein Armlets",
+                "Mob": 7,
+                "Res": 7,
+                "Rec": 16,
+                "Dis": 2,
+                "Int": 21,
+                "Str": 6
+            }
+        },
+        //Week 12
+        {
+            "location": "Tower",
+            "weapon": "Telesto",
+            "hunter": {
+                "name": "Lucky Pants",
+                "Mob": 17,
+                "Res": 15,
+                "Rec": 2,
+                "Dis": 9,
+                "Int": 9,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Actium War Rig",
+                "Mob": 15,
+                "Res": 17,
+                "Rec": 3,
+                "Dis": 9,
+                "Int": 12,
+                "Str": 9
+            },
+            "warlock": {
+                "name": "Claws of Ahamkara",
+                "Mob": 14,
+                "Res": 2,
+                "Rec": 18,
+                "Dis": 10,
+                "Int": 2,
+                "Str": 18
+            }
+        },
+        //Week 13
+        {
+            "location": "Nessus",
+            "weapon": "Skyburner's Oath",
+            "hunter": {
+                "name": "Ophidia Spathe",
+                "Mob": 9,
+                "Res": 2,
+                "Rec": 21,
+                "Dis": 12,
+                "Int": 2,
+                "Str": 14
+            },
+            "titan": {
+                "name": "Severance Enclosure",
+                "Mob": 9,
+                "Res": 7,
+                "Rec": 16,
+                "Dis": 14,
+                "Int": 14,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Eye of Another World",
+                "Mob": 18,
+                "Res": 12,
+                "Rec": 4,
+                "Dis": 9,
+                "Int": 12,
+                "Str": 7
+            }
+        },
+        //Week 14
+        {
+            "location": "EDZ",
+            "weapon": "Prometheus Lens",
+            "hunter": {
+                "name": "Graviton Forfeit",
+                "Mob": 14,
+                "Res": 12,
+                "Rec": 8,
+                "Dis": 10,
+                "Int": 6,
+                "Str": 16
+            },
+            "titan": {
+                "name": "Synthoceps",
+                "Mob": 21,
+                "Res": 3,
+                "Rec": 7,
+                "Dis": 2,
+                "Int": 20,
+                "Str": 8
+            },
+            "warlock": {
+                "name": "Vesper of Radius",
+                "Mob": 6,
+                "Res": 12,
+                "Rec": 16,
+                "Dis": 21,
+                "Int": 6,
+                "Str": 2
+            }
+        },
+        //Week 15
+        {
+            "location": "Tower",
+            "weapon": "Trinity Ghoul",
+            "hunter": {
+                "name": "Raiden Flux",
+                "Mob": 4,
+                "Res": 11,
+                "Rec": 20,
+                "Dis": 2,
+                "Int": 20,
+                "Str": 10
+            },
+            "titan": {
+                "name": "One-Eyed Mask",
+                "Mob": 16,
+                "Res": 15,
+                "Rec": 3,
+                "Dis": 8,
+                "Int": 6,
+                "Str": 14
+            },
+            "warlock": {
+                "name": "Sanguine Alchemy",
+                "Mob": 2,
+                "Res": 13,
+                "Rec": 16,
+                "Dis": 14,
+                "Int": 2,
+                "Str": 14
+            }
+        }
+    ],
+    //Season 15 Lost 08/24/2021-02/22/2022
+    [
+        //Week 1
+        {
+            "location": "Tower",
+            "weapon": "Tractor Cannon",
+            "hunter": {
+                "name": "Knucklehead Radar",
+                "Mob": 17,
+                "Res": 3,
+                "Rec": 12,
+                "Dis": 17,
+                "Int": 19,
+                "Str": 2
+            },
+            "titan": {
+                "name": "Doom Fang Pauldron",
+                "Mob": 13,
+                "Res": 17,
+                "Rec": 3,
+                "Dis": 9,
+                "Int": 13,
+                "Str": 8
+            },
+            "warlock": {
+                "name": "Promethium Spur",
+                "Mob": 12,
+                "Res": 12,
+                "Rec": 6,
+                "Dis": 2,
+                "Int": 17,
+                "Str": 14
+            },
+            "legendary_weapons": [
+                {
+                    "name": "True Prophecy",
+                    "column 1": [
+                        "Fastdraw HCS",
+                        "Sureshot HCS"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Extended Mag"
+                    ],
+                    "column 3": "Opening Shot",
+                    "column 4": "Elemental Capacitor",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Escape Velocity",
+                    "column 1": [
+                        "IS 2 Classic",
+                        "Model 6 Loop"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Overflow",
+                    "column 4": "Osmosis",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "The Last Dance",
+                    "column 1": [
+                        "Quickdot SAS",
+                        "Target SAS",
+                        "Farpoint SAS"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Appended Mag"
+                    ],
+                    "column 3": "QUICKDRAW",
+                    "column 4": "Dragonfly",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Main Ingredient",
+                    "column 1": [
+                        "Hitmark IS",
+                        "Red Dot 2 MOA",
+                        "Red Dot Micro"
+                    ],
+                    "column 2": [
+                        "Ionized Battery",
+                        "Particle Repeater"
+                    ],
+                    "column 3": "Hip-Fire Grip",
+                    "column 4": "Rampage",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Hollow Words",
+                    "column 1": [
+                        "Corkscrew Rifling",
+                        "Smallbore"
+                    ],
+                    "column 2": [
+                        "Accelerated Coils",
+                        "Projection Fuse"
+                    ],
+                    "column 3": "Lead from Gold",
+                    "column 4": "Backup Plan",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Seventh Seraph Saw",
+                    "column 1": [
+                        "Hammer-Forged Rifling",
+                        "Polygonal Rifling"
+                    ],
+                    "column 2": [
+                        "Alloy Magazine",
+                        "Appended Mag"
+                    ],
+                    "column 3": "Auto-Loading Holster",
+                    "column 4": "Mulligan",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Bite of the Fox",
+                    "column 1": [
+                        "Chambered Compensator",
+                        "Full bore"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Rapid Hit",
+                    "column 4": "Explosive Payload",
+                    "masterwork": "Reload Speed"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Woven Firesmith Grips",
+                        "type": "Gauntlets",
+                        "Mob": 12,
+                        "Res": 7,
+                        "Rec": 13,
+                        "Dis": 16,
+                        "Int": 10,
+                        "Str": 7
+                    },
+                    {
+                        "name": "Woven Firesmith Vest",
+                        "type": "Chest",
+                        "Mob": 7,
+                        "Res": 10,
+                        "Rec": 14,
+                        "Dis": 14,
+                        "Int": 10,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Woven Firesmith Cape",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Woven Firesmith Mask",
+                        "type": "Helmet",
+                        "Mob": 14,
+                        "Res": 2,
+                        "Rec": 16,
+                        "Dis": 2,
+                        "Int": 12,
+                        "Str": 16
+                    },
+                    {
+                        "name": "Woven Firesmith Boots",
+                        "type": "Legs",
+                        "Mob": 6,
+                        "Res": 10,
+                        "Rec": 12,
+                        "Dis": 2,
+                        "Int": 23,
+                        "Str": 7
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Forged Machinist Gauntlets",
+                        "type": "Gauntlets",
+                        "Mob": 2,
+                        "Res": 18,
+                        "Rec": 10,
+                        "Dis": 6,
+                        "Int": 14,
+                        "Str": 10
+                    },
+                    {
+                        "name": "Forged Machinist Plate",
+                        "type": "Chest",
+                        "Mob": 6,
+                        "Res": 12,
+                        "Rec": 6,
+                        "Dis": 13,
+                        "Int": 16,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Forged Machinist Mark",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Forged Machinist Helm",
+                        "type": "Helmet",
+                        "Mob": 7,
+                        "Res": 7,
+                        "Rec": 12,
+                        "Dis": 2,
+                        "Int": 16,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Forged Machinist Greaves",
+                        "type": "Legs",
+                        "Mob": 6,
+                        "Res": 11,
+                        "Rec": 9,
+                        "Dis": 16,
+                        "Int": 2,
+                        "Str": 7
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Annealed Shaper Gloves",
+                        "type": "Gauntlets",
+                        "Mob": 14,
+                        "Res": 6,
+                        "Rec": 12,
+                        "Dis": 14,
+                        "Int": 2,
+                        "Str": 12
+                    },
+                    {
+                        "name": "Annealed Shaper Robes",
+                        "type": "Chest",
+                        "Mob": 6,
+                        "Res": 9,
+                        "Rec": 17,
+                        "Dis": 2,
+                        "Int": 23,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Annealed Shaper Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Annealed Shaper Crown",
+                        "type": "Helmet",
+                        "Mob": 9,
+                        "Res": 18,
+                        "Rec": 2,
+                        "Dis": 13,
+                        "Int": 2,
+                        "Str": 18
+                    },
+                    {
+                        "name": "Annealed Shaper Boots",
+                        "type": "Legs",
+                        "Mob": 12,
+                        "Res": 16,
+                        "Rec": 2,
+                        "Dis": 12,
+                        "Int": 13,
+                        "Str": 8
+                    }
+                ]
+            }
+        },
+        //Week 2
+        {
+            "location": "Nessus",
+            "weapon": "Hard Light",
+            "hunter": {
+                "name": "Graviton Forfeit",
+                "Mob": 7,
+                "Res": 20,
+                "Rec": 7,
+                "Dis": 2,
+                "Int": 22,
+                "Str": 8
+            },
+            "titan": {
+                "name": "Peregrine Greaves",
+                "Mob": 10,
+                "Res": 7,
+                "Rec": 16,
+                "Dis": 16,
+                "Int": 2,
+                "Str": 11
+            },
+            "warlock": {
+                "name": "Contraverse Hold",
+                "Mob": 19,
+                "Res": 11,
+                "Rec": 4,
+                "Dis": 14,
+                "Int": 6,
+                "Str": 10
+            },
+            "legendary_weapons": [
+                {
+                    "name": "Dire Promise",
+                    "column 1": [
+                        "Fastdraw HCS",
+                        "Sureshot HCS"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Light Mag"
+                    ],
+                    "column 3": "Triple Tap",
+                    "column 4": "Under Pressure",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Gnawing Hunger",
+                    "column 1": [
+                        "Fluted Barrel",
+                        "Full bore"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Subsistence",
+                    "column 4": "Demolitionist",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "Cold Denial",
+                    "column 1": [
+                        "Chambered Compensator",
+                        "Full bore"
+                    ],
+                    "column 2": [
+                        "Alloy Magazine",
+                        "High-Caliber Rounds"
+                    ],
+                    "column 3": "Feeding Frenzy",
+                    "column 4": "Headseeker",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Distant Tumulus",
+                    "column 1": [
+                        "Full bore",
+                        "Hammer-Forged Rifling"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Flared Magwell"
+                    ],
+                    "column 3": "Lead from Gold",
+                    "column 4": "Quickdraw",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "Wishbringer",
+                    "column 1": [
+                        "Barrel Shroud",
+                        "Full Choke"
+                    ],
+                    "column 2": [
+                        "Steady Rounds",
+                        "Light Mag"
+                    ],
+                    "column 3": "Field Prep",
+                    "column 4": "Rampage",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Seventh Seraph Saw",
+                    "column 1": [
+                        "Corkscrew Rifling",
+                        "Fluted Barrel"
+                    ],
+                    "column 2": [
+                        "Armor-Piercing Rounds",
+                        "Flared Magwell"
+                    ],
+                    "column 3": "Zen Moment",
+                    "column 4": "Elemental Capacitor",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Trinary System",
+                    "column 1": [
+                        "Extended Barrel",
+                        "Fluted Barrel"
+                    ],
+                    "column 2": [
+                        "Enhanced Battery",
+                        "Ionized Battery"
+                    ],
+                    "column 3": "Quickdraw",
+                    "column 4": "Tap the Trigger",
+                    "masterwork": "Charge Time"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Wing Contender",
+                        "type": "Gauntlets",
+                        "Mob": 2,
+                        "Res": 16,
+                        "Rec": 13,
+                        "Dis": 12,
+                        "Int": 9,
+                        "Str": 10
+                    },
+                    {
+                        "name": "Wing Contender",
+                        "type": "Chest",
+                        "Mob": 10,
+                        "Res": 2,
+                        "Rec": 10,
+                        "Dis": 2,
+                        "Int": 2,
+                        "Str": 22
+                    },
+                    {
+                        "name": "Wing Contender",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Wing Contender",
+                        "type": "Helmet",
+                        "Mob": 7,
+                        "Res": 7,
+                        "Rec": 17,
+                        "Dis": 6,
+                        "Int": 20,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Wing Contender",
+                        "type": "Legs",
+                        "Mob": 6,
+                        "Res": 10,
+                        "Rec": 16,
+                        "Dis": 2,
+                        "Int": 22,
+                        "Str": 8
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Wing Discipline",
+                        "type": "Gauntlets",
+                        "Mob": 7,
+                        "Res": 9,
+                        "Rec": 12,
+                        "Dis": 11,
+                        "Int": 2,
+                        "Str": 19
+                    },
+                    {
+                        "name": "Wing Discipline",
+                        "type": "Chest",
+                        "Mob": 10,
+                        "Res": 2,
+                        "Rec": 10,
+                        "Dis": 2,
+                        "Int": 2,
+                        "Str": 22
+                    },
+                    {
+                        "name": "Wing Discipline",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Wing Discipline",
+                        "type": "Helmet",
+                        "Mob": 15,
+                        "Res": 12,
+                        "Rec": 2,
+                        "Dis": 12,
+                        "Int": 8,
+                        "Str": 13
+                    },
+                    {
+                        "name": "Wing Discipline",
+                        "type": "Legs",
+                        "Mob": 10,
+                        "Res": 12,
+                        "Rec": 6,
+                        "Dis": 22,
+                        "Int": 6,
+                        "Str": 2
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Wing Theorem",
+                        "type": "Gauntlets",
+                        "Mob": 24,
+                        "Res": 2,
+                        "Rec": 6,
+                        "Dis": 10,
+                        "Int": 12,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Wing Theorem",
+                        "type": "Chest",
+                        "Mob": 10,
+                        "Res": 2,
+                        "Rec": 10,
+                        "Dis": 2,
+                        "Int": 2,
+                        "Str": 22
+                    },
+                    {
+                        "name": "Wing Theorem",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Wing Theorem",
+                        "type": "Helmet",
+                        "Mob": 12,
+                        "Res": 14,
+                        "Rec": 6,
+                        "Dis": 9,
+                        "Int": 2,
+                        "Str": 16
+                    },
+                    {
+                        "name": "Wing Theorem",
+                        "type": "Legs",
+                        "Mob": 19,
+                        "Res": 7,
+                        "Rec": 2,
+                        "Dis": 12,
+                        "Int": 9,
+                        "Str": 6
+                    }
+                ]
+            }
+        },
+        //Week 3
+        {
+            "location": "EDZ",
+            "weapon": "Monte Carlo",
+            "hunter": {
+                "name": "Liar's Handshake",
+                "Mob": 9,
+                "Res": 9,
+                "Rec": 12,
+                "Dis": 7,
+                "Int": 12,
+                "Str": 10
+            },
+            "titan": {
+                "name": "Helm of Saint-14",
+                "Mob": 2,
+                "Res": 19,
+                "Rec": 11,
+                "Dis": 6,
+                "Int": 17,
+                "Str": 7
+            },
+            "warlock": {
+                "name": "Claws of Ahamkara",
+                "Mob": 2,
+                "Res": 12,
+                "Rec": 20,
+                "Dis": 6,
+                "Int": 8,
+                "Str": 15
+            },
+            "legendary_weapons": [
+                {
+                    "name": "Seventh Seraph Carbine",
+                    "column 1": [
+                        "Fluted Barrel",
+                        "Hammer-Forged Rifling"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Light Mag"
+                    ],
+                    "column 3": "Auto-Loading Holster",
+                    "column 4": "Rangefinder",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Seventh Seraph Officer Revolver",
+                    "column 1": [
+                        "Hammer-Forged Rifling",
+                        "Polygonal Rifling"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Flared Magwell"
+                    ],
+                    "column 3": "Pulse Monitor",
+                    "column 4": "Feeding Frenzy",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "The Last Dance",
+                    "column 1": [
+                        "Control SAS",
+                        "Target SAS",
+                        "Farpoint SAS"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Threat Detector",
+                    "column 4": "Rangefinder",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Timelines' Vertex",
+                    "column 1": [
+                        "Impulse MS3",
+                        "Spark PS"
+                    ],
+                    "column 2": [
+                        "Enhanced Battery",
+                        "Particle Repeater"
+                    ],
+                    "column 3": "Firmly Planted",
+                    "column 4": "Demolitionist",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Long Shadow",
+                    "column 1": [
+                        "ATB Long Range",
+                        "ATD Raptor"
+                    ],
+                    "column 2": [
+                        "Tactical Mag",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Hip-Fire Grip",
+                    "column 4": "Rampage",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Honor'S Edge",
+                    "column 1": [
+                        "Jagged Edge",
+                        "Tempered Edge"
+                    ],
+                    "column 2": [
+                        "Balanced Guard",
+                        "Swordmaster's Guard"
+                    ],
+                    "column 3": "Tireless Blade",
+                    "column 4": "Shattering Blade",
+                    "masterwork": "Impact"
+                },
+                {
+                    "name": "Frozen Orbit",
+                    "column 1": [
+                        "Arrowhead Brake",
+                        "Corkscrew Rifling"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Tactical Mag"
+                    ],
+                    "column 3": "Surplus",
+                    "column 4": "Box Breathing",
+                    "masterwork": "Range"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Woven Firesmith Grips",
+                        "type": "Gauntlets",
+                        "Mob": 12,
+                        "Res": 13,
+                        "Rec": 7,
+                        "Dis": 12,
+                        "Int": 13,
+                        "Str": 8
+                    },
+                    {
+                        "name": "Woven Firesmith Vest",
+                        "type": "Chest",
+                        "Mob": 14,
+                        "Res": 2,
+                        "Rec": 16,
+                        "Dis": 14,
+                        "Int": 15,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Woven Firesmith Cape",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Woven Firesmith Mask",
+                        "type": "Helmet",
+                        "Mob": 9,
+                        "Res": 13,
+                        "Rec": 7,
+                        "Dis": 2,
+                        "Int": 14,
+                        "Str": 13
+                    },
+                    {
+                        "name": "Woven Firesmith Boots",
+                        "type": "Legs",
+                        "Mob": 10,
+                        "Res": 15,
+                        "Rec": 7,
+                        "Dis": 10,
+                        "Int": 13,
+                        "Str": 8
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Forged Machinist Gauntlets",
+                        "type": "Gauntlets",
+                        "Mob": 8,
+                        "Res": 13,
+                        "Rec": 10,
+                        "Dis": 11,
+                        "Int": 2,
+                        "Str": 19
+                    },
+                    {
+                        "name": "Forged Machinist Plate",
+                        "type": "Chest",
+                        "Mob": 6,
+                        "Res": 6,
+                        "Rec": 13,
+                        "Dis": 6,
+                        "Int": 10,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Forged Machinist Mark",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Forged Machinist Helm",
+                        "type": "Helmet",
+                        "Mob": 6,
+                        "Res": 6,
+                        "Rec": 15,
+                        "Dis": 14,
+                        "Int": 11,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Forged Machinist Greaves",
+                        "type": "Legs",
+                        "Mob": 7,
+                        "Res": 7,
+                        "Rec": 11,
+                        "Dis": 6,
+                        "Int": 7,
+                        "Str": 12
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Annealed Shaper Gloves",
+                        "type": "Gauntlets",
+                        "Mob": 15,
+                        "Res": 14,
+                        "Rec": 2,
+                        "Dis": 20,
+                        "Int": 2,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Annealed Shaper Robes",
+                        "type": "Chest",
+                        "Mob": 2,
+                        "Res": 16,
+                        "Rec": 13,
+                        "Dis": 17,
+                        "Int": 2,
+                        "Str": 10
+                    },
+                    {
+                        "name": "Annealed Shaper Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Annealed Shaper Crown",
+                        "type": "Helmet",
+                        "Mob": 10,
+                        "Res": 20,
+                        "Rec": 2,
+                        "Dis": 27,
+                        "Int": 2,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Annealed Shaper Boots",
+                        "type": "Legs",
+                        "Mob": 9,
+                        "Res": 12,
+                        "Rec": 9,
+                        "Dis": 2,
+                        "Int": 6,
+                        "Str": 24
+                    }
+                ]
+            }
+        },
+        //Week 4
+        {
+            "location": "Tower",
+            "weapon": "Merciless",
+            "hunter": {
+                "name": "Shards of Galanor",
+                "Mob": 10,
+                "Res": 13,
+                "Rec": 9,
+                "Dis": 9,
+                "Int": 13,
+                "Str": 8
+            },
+            "titan": {
+                "name": "One-Eyed Mask",
+                "Mob": 19,
+                "Res": 7,
+                "Rec": 8,
+                "Dis": 9,
+                "Int": 8,
+                "Str": 16
+            },
+            "warlock": {
+                "name": "Geomag Stabilizers",
+                "Mob": 12,
+                "Res": 15,
+                "Rec": 8,
+                "Dis": 15,
+                "Int": 10,
+                "Str": 7
+            },
+            "date": "09/17/21",
+            "legendary_weapons": [
+                {
+                    "name": "Dire Promise",
+                    "column 1": [
+                        "Fastdraw HCS",
+                        "Steadyhand HCS"
+                    ],
+                    "column 2": [
+                        "Alloy Magazine",
+                        "High-Caliber Rounds"
+                    ],
+                    "column 3": "Snapshot Sights",
+                    "column 4": "Rangefinder",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Escape Velocity",
+                    "column 1": [
+                        "IS 2 Classic",
+                        "Model 8 Red"
+                    ],
+                    "column 2": [
+                        "Alloy Magazine",
+                        "Flared Magwell"
+                    ],
+                    "column 3": "Grave Robber",
+                    "column 4": "Quickdraw",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Ikelos_SMG_V1.0.2",
+                    "column 1": [
+                        "Extended Barrel",
+                        "Smallbore"
+                    ],
+                    "column 2": [
+                        "Seraph Rounds",
+                        "Extended Mag"
+                    ],
+                    "column 3": "Grave Robber",
+                    "column 4": "Vorpal Weapon",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "Main Ingredient",
+                    "column 1": [
+                        "Cleanshot IS",
+                        "Hitmark IS",
+                        "Red Dot Micro"
+                    ],
+                    "column 2": [
+                        "Particle Repeater",
+                        "Projection Fuse"
+                    ],
+                    "column 3": "Under Pressure",
+                    "column 4": "Tap the Trigger",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Truthteller",
+                    "column 1": [
+                        "Volatile Launch",
+                        "Countermass"
+                    ],
+                    "column 2": [
+                        "Blinding Grenades",
+                        "Concussion Grenades"
+                    ],
+                    "column 3": "Feeding Frenzy",
+                    "column 4": "Swashbuckler",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "Steel Sybil Z-14",
+                    "column 1": [
+                        "Enduring Blade",
+                        "Jagged Edge",
+                        "Tempered Edge"
+                    ],
+                    "column 2": [
+                        "Heavy Guard",
+                        "Swordmaster's Guard"
+                    ],
+                    "column 3": "Relentless Strikes",
+                    "column 4": "Whirlwind Blade",
+                    "masterwork": "Impact"
+                },
+                {
+                    "name": "Bottom Dollar",
+                    "column 1": [
+                        "Hammer-Forged Rifling",
+                        "Smallbore"
+                    ],
+                    "column 2": [
+                        "Alloy Magazine",
+                        "Flared Magwell"
+                    ],
+                    "column 3": "Outlaw",
+                    "column 4": "Dragonfly",
+                    "masterwork": "Stability"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Wild Hunt Grasps",
+                        "type": "Gauntlets",
+                        "Mob": 21,
+                        "Res": 2,
+                        "Rec": 8,
+                        "Dis": 9,
+                        "Int": 12,
+                        "Str": 10
+                    },
+                    {
+                        "name": "Wild Hunt Vest",
+                        "type": "Chest",
+                        "Mob": 16,
+                        "Res": 2,
+                        "Rec": 10,
+                        "Dis": 2,
+                        "Int": 9,
+                        "Str": 18
+                    },
+                    {
+                        "name": "Wild Hunt Cloak",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Wild Hunt Mask",
+                        "type": "Helmet",
+                        "Mob": 2,
+                        "Res": 6,
+                        "Rec": 23,
+                        "Dis": 6,
+                        "Int": 12,
+                        "Str": 14
+                    },
+                    {
+                        "name": "Wild Hunt Strides",
+                        "type": "Legs",
+                        "Mob": 12,
+                        "Res": 2,
+                        "Rec": 16,
+                        "Dis": 16,
+                        "Int": 13,
+                        "Str": 2
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Wild Hunt Gauntlets",
+                        "type": "Gauntlets",
+                        "Mob": 15,
+                        "Res": 14,
+                        "Rec": 2,
+                        "Dis": 17,
+                        "Int": 9,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Wild Hunt Plate",
+                        "type": "Chest",
+                        "Mob": 2,
+                        "Res": 6,
+                        "Rec": 23,
+                        "Dis": 2,
+                        "Int": 21,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Wild Hunt Mark",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Wild Hunt Helm",
+                        "type": "Helmet",
+                        "Mob": 10,
+                        "Res": 14,
+                        "Rec": 6,
+                        "Dis": 16,
+                        "Int": 13,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Wild Hunt Greaves",
+                        "type": "Legs",
+                        "Mob": 2,
+                        "Res": 15,
+                        "Rec": 16,
+                        "Dis": 2,
+                        "Int": 26,
+                        "Str": 2
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Wild Hunt Gloves",
+                        "type": "Gauntlets",
+                        "Mob": 2,
+                        "Res": 19,
+                        "Rec": 9,
+                        "Dis": 7,
+                        "Int": 9,
+                        "Str": 16
+                    },
+                    {
+                        "name": "Wild Hunt Vestment",
+                        "type": "Chest",
+                        "Mob": 12,
+                        "Res": 16,
+                        "Rec": 2,
+                        "Dis": 6,
+                        "Int": 14,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Wild Hunt Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Wild Hunt Hood",
+                        "type": "Helmet",
+                        "Mob": 7,
+                        "Res": 2,
+                        "Rec": 22,
+                        "Dis": 6,
+                        "Int": 13,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Wild Hunt Boots",
+                        "type": "Legs",
+                        "Mob": 12,
+                        "Res": 12,
+                        "Rec": 6,
+                        "Dis": 12,
+                        "Int": 14,
+                        "Str": 7
+                    }
+                ]
+            }
+        },
+        //Week 5
+        {
+            "location": "EDZ",
+            "movedto": "Tower",
+            "weapon": "Merciless",
+            "hunter": {
+                "name": "Shinobu's Vow",
+                "Mob": 7,
+                "Res": 10,
+                "Rec": 17,
+                "Dis": 13,
+                "Int": 16,
+                "Str": 2
+            },
+            "titan": {
+                "name": "Wormgod Caress",
+                "Mob": 2,
+                "Res": 11,
+                "Rec": 20,
+                "Dis": 23,
+                "Int": 8,
+                "Str": 2
+            },
+            "warlock": {
+                "name": "Apotheosis Veil",
+                "Mob": 7,
+                "Res": 3,
+                "Rec": 23,
+                "Dis": 13,
+                "Int": 12,
+                "Str": 6
+            },
+            "date": "09/24/21",
+            "legendary_weapons": [
+                {
+                    "name": "Seventh Seraph Carbine",
+                    "column 1": [
+                        "Chambered Compensator",
+                        "Full bore"
+                    ],
+                    "column 2": [
+                        "Armor-Piercing Rounds",
+                        "High-Caliber Rounds"
+                    ],
+                    "column 3": "Auto-Loading Holster",
+                    "column 4": "Vorpal Weapon",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Last Perdition",
+                    "column 1": [
+                        "SRO-41 Ocular",
+                        "SRO-52 Ocular"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Under Pressure",
+                    "column 4": "Kill Clip",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Whispering Slab",
+                    "column 1": [
+                        "Natural String",
+                        "Polymer String"
+                    ],
+                    "column 2": [
+                        "Helical Fletching",
+                        "Natural Fletching"
+                    ],
+                    "column 3": "Killing Wind",
+                    "column 4": "Swashbuckler",
+                    "masterwork": "Accuracy"
+                },
+                {
+                    "name": "Timelines' Vertex",
+                    "column 1": [
+                        "Jolt PS",
+                        "Flash HS5"
+                    ],
+                    "column 2": [
+                        "Enhanced Battery",
+                        "Liquid Coils"
+                    ],
+                    "column 3": "Shield Disorient",
+                    "column 4": "Elemental Capacitor",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Main Ingredient",
+                    "column 1": [
+                        "Hitmark IS",
+                        "Red Dot 2 MOA",
+                        "Red Dot Micro"
+                    ],
+                    "column 2": [
+                        "Accelerated Coils",
+                        "Liquid Coils"
+                    ],
+                    "column 3": "Moving Target",
+                    "column 4": "Backup Plan",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Outrageous Fortune",
+                    "column 1": [
+                        "Countermass",
+                        "Quick Launch"
+                    ],
+                    "column 2": [
+                        "Proximity Grenades",
+                        "High-Explosive Ordnance"
+                    ],
+                    "column 3": "Snapshot Sights",
+                    "column 4": "Rampage",
+                    "masterwork": "Blast Radius"
+                },
+                {
+                    "name": "Crowd Pleaser",
+                    "column 1": [
+                        "Confined Launch",
+                        "Smart Drift Control"
+                    ],
+                    "column 2": [
+                        "Proximity Grenades",
+                        "High-Velocity Rounds"
+                    ],
+                    "column 3": "Killing Wind",
+                    "column 4": "Quickdraw",
+                    "masterwork": "Handling"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Simulator Grips",
+                        "type": "Gauntlets",
+                        "Mob": 15,
+                        "Res": 14,
+                        "Rec": 2,
+                        "Dis": 16,
+                        "Int": 13,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Simulator Vest",
+                        "type": "Chest",
+                        "Mob": 2,
+                        "Res": 12,
+                        "Rec": 18,
+                        "Dis": 14,
+                        "Int": 14,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Entanglement Cloak",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Simulator Mask",
+                        "type": "Helmet",
+                        "Mob": 2,
+                        "Res": 16,
+                        "Rec": 10,
+                        "Dis": 2,
+                        "Int": 16,
+                        "Str": 10
+                    },
+                    {
+                        "name": "Simulator Boots",
+                        "type": "Legs",
+                        "Mob": 2,
+                        "Res": 10,
+                        "Rec": 19,
+                        "Dis": 16,
+                        "Int": 6,
+                        "Str": 9
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Simulator Gauntlets",
+                        "type": "Gauntlets",
+                        "Mob": 19,
+                        "Res": 2,
+                        "Rec": 11,
+                        "Dis": 16,
+                        "Int": 7,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Simulator Plate",
+                        "type": "Chest",
+                        "Mob": 15,
+                        "Res": 2,
+                        "Rec": 14,
+                        "Dis": 10,
+                        "Int": 11,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Entanglement Mark",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Simulator Helm",
+                        "type": "Helmet",
+                        "Mob": 16,
+                        "Res": 2,
+                        "Rec": 12,
+                        "Dis": 12,
+                        "Int": 18,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Simulator Greaves",
+                        "type": "Legs",
+                        "Mob": 12,
+                        "Res": 8,
+                        "Rec": 9,
+                        "Dis": 6,
+                        "Int": 12,
+                        "Str": 12
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Simulator Gloves",
+                        "type": "Gauntlets",
+                        "Mob": 8,
+                        "Res": 13,
+                        "Rec": 10,
+                        "Dis": 8,
+                        "Int": 12,
+                        "Str": 13
+                    },
+                    {
+                        "name": "Simulator Robes",
+                        "type": "Chest",
+                        "Mob": 12,
+                        "Res": 16,
+                        "Rec": 2,
+                        "Dis": 16,
+                        "Int": 2,
+                        "Str": 13
+                    },
+                    {
+                        "name": "Entanglement Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Simulator Hood",
+                        "type": "Helmet",
+                        "Mob": 15,
+                        "Res": 7,
+                        "Rec": 9,
+                        "Dis": 16,
+                        "Int": 6,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Simulator Legs",
+                        "type": "Legs",
+                        "Mob": 6,
+                        "Res": 10,
+                        "Rec": 12,
+                        "Dis": 6,
+                        "Int": 19,
+                        "Str": 8
+                    }
+                ]
+            }
+        }
+        //Week 6
+        // {
+        //     "location": "",
+        //     "weapon": "",
+        //     "hunter": {
+        //         "name": "",
+        //         "Mob": ,
+        //         "Res": ,
+        //         "Rec": ,
+        //         "Dis": ,
+        //         "Int": ,
+        //         "Str": 
+        //     },
+        //     "titan": {
+        //         "name": "",
+        //         "Mob": ,
+        //         "Res": ,
+        //         "Rec": ,
+        //         "Dis": ,
+        //         "Int": ,
+        //         "Str": 
+        //     },
+        //     "warlock": {
+        //         "name": "",
+        //         "Mob": ,
+        //         "Res": ,
+        //         "Rec": ,
+        //         "Dis": ,
+        //         "Int": ,
+        //         "Str": 
+        //     },
+        //     "date": "",
+        //     "legendary_weapons": [
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         }
+        //     ],
+        //     "legendary_armor": {
+        //         "hunter": [
+        //             {
+        //                 "name": "",
+        //                 "type": "Gauntlets",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Chest",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Class",
+        //                 "Mob": 0,
+        //                 "Res": 0,
+        //                 "Rec": 0,
+        //                 "Dis": 0,
+        //                 "Int": 0,
+        //                 "Str": 0
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Helmet",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Legs",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             }
+        //         ],
+        //         "titan": [
+        //             {
+        //                 "name": "",
+        //                 "type": "Gauntlets",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Chest",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Class",
+        //                 "Mob": 0,
+        //                 "Res": 0,
+        //                 "Rec": 0,
+        //                 "Dis": 0,
+        //                 "Int": 0,
+        //                 "Str": 0
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Helmet",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Legs",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             }
+        //         ],
+        //         "warlock": [
+        //             {
+        //                 "name": "",
+        //                 "type": "Gauntlets",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Chest",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Class",
+        //                 "Mob": 0,
+        //                 "Res": 0,
+        //                 "Rec": 0,
+        //                 "Dis": 0,
+        //                 "Int": 0,
+        //                 "Str": 0
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Helmet",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Legs",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             }
+        //         ]
+        //     }
+        // }
+    ]
+]
