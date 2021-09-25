@@ -594,11 +594,10 @@
             "titan": "Armamentarium",
             "warlock": "Karnstein Armlets",
             "date": "11/30/18"
-        },
+        }
     ],
     //Season 5 Forge 12/04/2018-03/05/2019
     [
-        
         //Week 1
         {
             "location": "Tower",
@@ -641,7 +640,8 @@
             "weapon": "Graviton Lance",
             "hunter": "Celestial Nighthawk",
             "titan": "Dunemarchers",
-            "warlock": "Sanguine Alchemy"
+            "warlock": "Sanguine Alchemy",
+            "date": "01/04/19"
         },
         //Week 6
         {
@@ -649,7 +649,8 @@
             "weapon": "Merciless",
             "hunter": "Young Ahamkara's Spine",
             "titan": "Doom Fang Pauldron",
-            "warlock": "Crown of Tempests"
+            "warlock": "Crown of Tempests",
+            "date": "01/11/19"
         },
         //Week 7
         {
@@ -657,7 +658,8 @@
             "weapon": "Vigilance Wing",
             "hunter": "Orpheus Rig",
             "titan": "Hallowfire Heart",
-            "warlock": "Verity's Brow"
+            "warlock": "Verity's Brow",
+            "date": "01/18/19"
         },
         //Week 8
         {
@@ -665,7 +667,8 @@
             "weapon": "Crimson",
             "hunter": "Fr0st-EE5",
             "titan": "Ashen Wake",
-            "warlock": "Transversive Steps"
+            "warlock": "Transversive Steps",
+            "date": "01/25/19"
         },
         //Week 9
         {
@@ -673,7 +676,8 @@
             "weapon": "The Huckleberry",
             "hunter": "St0mp-EE5",
             "titan": "An Insurmountable Skullfort",
-            "warlock": "Claws of Ahamkara"
+            "warlock": "Claws of Ahamkara",
+            "date": "02/01/19"
         },
         //Week 10
         {
@@ -681,7 +685,8 @@
             "weapon": "Skyburner's Oath",
             "hunter": "The Dragon's Shadow",
             "titan": "Wormgod Caress",
-            "warlock": "Sunbracers"
+            "warlock": "Sunbracers",
+            "date": "02/08/19"
         },
         //Week 11
         {
@@ -689,7 +694,8 @@
             "weapon": "Sunshot",
             "hunter": "Lucky Raspberry",
             "titan": "Actium War Rig",
-            "warlock": "Skull of Dire Ahamkara"
+            "warlock": "Skull of Dire Ahamkara",
+            "date": "02/15/19"
         },
         //Week 12
         {
@@ -697,7 +703,8 @@
             "weapon": "Graviton Lance",
             "hunter": "Orpheus Rig",
             "titan": "Synthoceps",
-            "warlock": "Aeon Soul"
+            "warlock": "Aeon Soul",
+            "date": "02/22/19"
         },
         //Week 13
         {
@@ -705,7 +712,8 @@
             "weapon": "The Colony",
             "hunter": "Knucklehead Radar",
             "titan": "Peacekeepers",
-            "warlock": "Claws of Ahamkara"
+            "warlock": "Claws of Ahamkara",
+            "date": "03/01/19"
         }
     ],
     //Season 6 Drifter 03/05/2019-06/04/2019
@@ -716,7 +724,8 @@
             "weapon": "Trinity Ghoul",
             "hunter": "Oathkeeper",
             "titan": "Ursa Furiosa",
-            "warlock": "Ophidian Aspect"
+            "warlock": "Ophidian Aspect",
+            "date": "03/08/19"
         },
         //Week 2
         {
@@ -724,7 +733,8 @@
             "weapon": "Crimson",
             "hunter": "Orpheus Rig",
             "titan": "Wormgod Caress",
-            "warlock": "Chromatic Fire"
+            "warlock": "Chromatic Fire",
+            "date": "03/15/19"
         },
         //Week 3
         {
@@ -732,7 +742,8 @@
             "weapon": "The Huckleberry",
             "hunter": "Gemini Jester",
             "titan": "Mask of the Quite One",
-            "warlock": "Contraverse Hold"
+            "warlock": "Contraverse Hold",
+            "date": "03/22/19"
         },
         //Week 4
         {
@@ -740,7 +751,8 @@
             "weapon": "Sunshot",
             "hunter": "Foetracer",
             "titan": "Helm of Saint-14",
-            "warlock": "Sunbracers"
+            "warlock": "Sunbracers",
+            "date": "03/29/19"
         },
         //Week 5
         {
@@ -748,7 +760,8 @@
             "weapon": "D.A.R.C.I.",
             "hunter": "Gwisin Vest",
             "titan": "Antaeus Wards",
-            "warlock": "Winter's Guile"
+            "warlock": "Winter's Guile",
+            "date": "04/05/19"
         },
         //Week 6
         {
@@ -756,7 +769,8 @@
             "weapon": "The Jade Rabbit",
             "hunter": "Lucky Pants",
             "titan": "Dunemarchers",
-            "warlock": "Starfire Protocol"
+            "warlock": "Starfire Protocol",
+            "date": "04/12/19"
         },
         //Week 7
         {
@@ -764,7 +778,8 @@
             "weapon": "The Wardcliff Coil",
             "hunter": "Raiden Flux",
             "titan": "Hallowfire Heart",
-            "warlock": "Lunafaction Boots"
+            "warlock": "Lunafaction Boots",
+            "date": "04/19/19"
         },
         //Week 8
         {
@@ -772,7 +787,8 @@
             "weapon": "Sweet Business",
             "hunter": "Lucky Pants",
             "titan": "Doom Fang Pauldron",
-            "warlock": "Aeon Soul"
+            "warlock": "Aeon Soul",
+            "date": "04/26/19"
         },
         //Week 9
         {
@@ -780,7 +796,8 @@
             "weapon": "The Huckleberry",
             "hunter": "Gemini Jester",
             "titan": "Antaeus Wards",
-            "warlock": "Contraverse Hold"
+            "warlock": "Contraverse Hold",
+            "date": "05/03/19"
         },
         //Week 10
         {
@@ -788,7 +805,8 @@
             "weapon": "The Colony",
             "hunter": "Young Ahamkara's Spine",
             "titan": "Mask of the Quite One",
-            "warlock": "Eye of Another World"
+            "warlock": "Eye of Another World",
+            "date": "05/10/19"
         },
         //Week 11
         {
@@ -796,7 +814,8 @@
             "weapon": "D.A.R.C.I.",
             "hunter": "Celestial Nighthawk",
             "titan": "Ursa Furiosa",
-            "warlock": "Geomag Stabilizers"
+            "warlock": "Geomag Stabilizers",
+            "date": "05/17/19"
         },
         //Week 12
         {
@@ -804,7 +823,8 @@
             "weapon": "Sweet Business",
             "hunter": "Raiden Flux",
             "titan": "One-Eyed Mask",
-            "warlock": "Chromatic Fire"
+            "warlock": "Chromatic Fire",
+            "date": "05/24/19"
         },
         //Week 13
         {
@@ -812,7 +832,8 @@
             "weapon": "SUROS Regime",
             "hunter": "Fr0st-EE5",
             "titan": "Aeon Safe",
-            "warlock": "Wings of Sacred Dawn"
+            "warlock": "Wings of Sacred Dawn",
+            "date": "05/31/19"
         }
     ],
     //Season 7 Opulence 06/04/2019-10/1/2019
@@ -823,7 +844,8 @@
             "weapon": "Sweet Business",
             "hunter": "The Sixth Coyote",
             "titan": "Ashen Wake",
-            "warlock": "Karnstein Armlets"
+            "warlock": "Karnstein Armlets",
+            "date": "06/07/19"
         },
         //Week 2
         {
@@ -831,7 +853,8 @@
             "weapon": "The Queenbreaker",
             "hunter": "Knucklehead Radar",
             "titan": "ACD/0 Feedback Fence",
-            "warlock": "Geomag Stabilizers"
+            "warlock": "Geomag Stabilizers",
+            "date": "06/14/19"
         },
         //Week 3
         {
@@ -839,7 +862,8 @@
             "weapon": "The Jade Rabbit",
             "hunter": "Oathkeeper",
             "titan": "Ursa Furiosa",
-            "warlock": "Phoenix Protocol"
+            "warlock": "Phoenix Protocol",
+            "date": "06/21/19"
         },
         //Week 4
         {
@@ -847,7 +871,8 @@
             "weapon": "Vigilance Wing",
             "hunter": "St0mp-EE5",
             "titan": "One-Eyed Mask",
-            "warlock": "Chromatic Fire"
+            "warlock": "Chromatic Fire",
+            "date": "06/28/19"
         },
         //Week 5
         {
@@ -855,7 +880,8 @@
             "weapon": "The Huckleberry",
             "hunter": "Graviton Forfeit",
             "titan": "Khepri's Horn",
-            "warlock": "Sunbracers"
+            "warlock": "Sunbracers",
+            "date": "07/05/19"
         },
         //Week 6
         {
@@ -863,7 +889,8 @@
             "weapon": "Hard Light",
             "hunter": "Gemini Jester",
             "titan": "Helm of Saint-14",
-            "warlock": "Wings of Sacred Dawn"
+            "warlock": "Wings of Sacred Dawn",
+            "date": "07/12/19"
         },
         //Week 7
         {
@@ -871,7 +898,8 @@
             "weapon": "Coldheart",
             "hunter": "Aeon Swift",
             "titan": "Eternal Warrior",
-            "warlock": "Starfire Protocol"
+            "warlock": "Starfire Protocol",
+            "date": "07/19/19"
         },
         //Week 8
         {
@@ -879,7 +907,8 @@
             "weapon": "D.A.R.C.I.",
             "hunter": "Wormhusk Crown",
             "titan": "Armamentarium",
-            "warlock": "Vesper of Radius"
+            "warlock": "Vesper of Radius",
+            "date": "07/26/19"
         },
         //Week 9
         {
@@ -887,7 +916,8 @@
             "weapon": "The Huckleberry",
             "hunter": "St0mp-EE5",
             "titan": "One-Eyed Mask",
-            "warlock": "Winter's Guile"
+            "warlock": "Winter's Guile",
+            "date": "08/02/19"
         },
         //Week 10
         {
@@ -895,7 +925,8 @@
             "weapon": "The Colony",
             "hunter": "Shards of Galanor",
             "titan": "ACD/0 Feedback Fence",
-            "warlock": "Chromatic Fire"
+            "warlock": "Chromatic Fire",
+            "date": "08/09/19"
         },
         //Week 11
         {
@@ -903,7 +934,8 @@
             "weapon": "Telesto",
             "hunter": "Aeon Swift",
             "titan": "Stronghold",
-            "warlock": "Verity's Brow"
+            "warlock": "Verity's Brow",
+            "date": "08/16/19"
         },
         //Week 12
         {
@@ -911,7 +943,8 @@
             "weapon": "Arbalest",
             "hunter": "Shinobu's Vow",
             "titan": "Ashen Wake",
-            "warlock": "Crown of Tempests"
+            "warlock": "Crown of Tempests",
+            "date": "08/23/19"
         },
         //Week 13
         {
@@ -919,7 +952,8 @@
             "weapon": "Vigilance Wing",
             "hunter": "Ophidia Spathe",
             "titan": "Aeon Safe",
-            "warlock": "Chromatic Fire"
+            "warlock": "Chromatic Fire",
+            "date": "08/30/19"
         },
         //Week 14
         {
@@ -927,7 +961,8 @@
             "weapon": "Lord of Wolves",
             "hunter": "Gemini Jester",
             "titan": "Lion Rampant",
-            "warlock": "Sunbracers"
+            "warlock": "Sunbracers",
+            "date": "09/06/19"
         },
         //Week 15
         {
@@ -935,7 +970,8 @@
             "weapon": "Coldheart",
             "hunter": "The Dragon's Shadow",
             "titan": "Hallowfire Heart",
-            "warlock": "Chromatic Fire"
+            "warlock": "Chromatic Fire",
+            "date": "09/13/19"
         },
         //Week 16
         {
@@ -943,7 +979,8 @@
             "weapon": "The Colony",
             "hunter": "Orpheus Rig",
             "titan": "Ashen Wake",
-            "warlock": "Karnstein Armlets"
+            "warlock": "Karnstein Armlets",
+            "date": "09/20/19"
         },
         //Week 17
         {
@@ -951,7 +988,8 @@
             "weapon": "Vigilance Wing",
             "hunter": "Lucky Pants",
             "titan": "Helm of Saint-14",
-            "warlock": "Nezarec's Sin"
+            "warlock": "Nezarec's Sin",
+            "date": "09/27/19"
         }
     ],
     //Season 8 Undying 10/1/2019-12/10/2019
@@ -962,7 +1000,8 @@
             "weapon": "The Wardcliff Coil",
             "hunter": "The Sixth Coyote",
             "titan": "ACD/0 Feedback Fence",
-            "warlock": "Nezarec's Sin"
+            "warlock": "Nezarec's Sin",
+            "date": "10/04/19"
         },
         //Week 2
         {
@@ -970,7 +1009,8 @@
             "weapon": "The Jade Rabbit",
             "hunter": "Mechaneer's Tricksleeves",
             "titan": "Ashen Wake",
-            "warlock": "The Stag"
+            "warlock": "The Stag",
+            "date": "10/11/19"
         },
         //Week 3
         {
@@ -978,7 +1018,8 @@
             "weapon": "Telesto",
             "hunter": "Shards of Galanor",
             "titan": "Dunemarchers",
-            "warlock": "Transversive Steps"
+            "warlock": "Transversive Steps",
+            "date": "10/18/19"
         },
         //Week 4
         {
@@ -986,7 +1027,8 @@
             "weapon": "SUROS Regime",
             "hunter": "Liar's Handshake",
             "titan": "Synthoceps",
-            "warlock": "Geomag Stabilizers"
+            "warlock": "Geomag Stabilizers",
+            "date": "10/25/19"
         },
         //Week 5
         {
@@ -994,31 +1036,55 @@
             "weapon": "Vigilance Wing",
             "hunter": "Lucky Pants",
             "titan": "Peacekeepers",
-            "warlock": "Nezarec's Sin"
+            "warlock": "Nezarec's Sin",
+            "date": "11/01/19"
         },
         //Week 6
+        {
+            "location": "EDZ",
+            "weapon": "Riskrunner",
+            "hunter": "Fr0st-EE5",
+            "titan": "Eternal Warrior",
+            "warlock": "Transversive Steps",
+            "date": "11/08/19",
+            "note": "Weapon changed from Cerberus+1 to Riskrunner"
+        },
+        //Week 7
         {
             "location": "Io",
             "weapon": "Prometheus Lens",
             "hunter": "Ophidia Spathe",
             "titan": "Mask of the Quite One",
-            "warlock": "Skull of Dire Ahamkara"
+            "warlock": "Skull of Dire Ahamkara",
+            "date": "11/15/19",
+            "note": "Weapon changed from Riskrunner to Prometheus Lens"
         },
-        //Week 7
+        //Week 8
+        {
+            "location": "EDZ",
+            "weapon": "The Wardcliff Coil",
+            "hunter": "The Sixth Coyote",
+            "titan": "One-Eyed Mask",
+            "warlock": "Verity's Brow",
+            "date": "11/22/19"
+        },
+        //Week 9
         {
             "location": "Tower",
             "weapon": "Graviton Lance",
             "hunter": "St0mp-EE5",
             "titan": "Ursa Furiosa",
-            "warlock": "Transversive Steps"
+            "warlock": "Transversive Steps",
+            "date": "11/29/19"
         },
-        //Week 8
+        //Week 10
         {
             "location": "Titan",
             "weapon": "Black Talon",
             "hunter": "Wormhusk Crown",
             "titan": "Stronghold",
-            "warlock": "Lunafaction Boots"
+            "warlock": "Lunafaction Boots",
+            "date": "12/06/19"
         }
     ],
     //Season 9 Dawn 12/10/2019-03/10/2020
@@ -1029,7 +1095,8 @@
             "weapon": "Prometheus Lens",
             "hunter": "Young Ahamkara's Spine",
             "titan": "Hallowfire Heart",
-            "warlock": "Wings of Sacred Dawn"
+            "warlock": "Wings of Sacred Dawn",
+            "date": "12/13/19"
         },
         //Week 2
         {
@@ -1037,7 +1104,8 @@
             "weapon": "Two-Tailed Fox",
             "hunter": "Assassin's Cowl",
             "titan": "Dunemarchers",
-            "warlock": "Contraverse Hold"
+            "warlock": "Contraverse Hold",
+            "date": "12/20/19"
         },
         //Week 3
         {
@@ -1045,7 +1113,8 @@
             "weapon": "Fighting Lion",
             "hunter": "Mechaneer's Tricksleeves",
             "titan": "Mk. 44 Stand Asides",
-            "warlock": "The Stag"
+            "warlock": "The Stag",
+            "date": "12/27/19"
         },
         //Week 4
         {
@@ -1053,7 +1122,8 @@
             "weapon": "Lord of Wolves",
             "hunter": "St0mp-EE5",
             "titan": "Dunemarchers",
-            "warlock": "Sanguine Alchemy"
+            "warlock": "Sanguine Alchemy",
+            "date": "01/03/20"
         },
         //Week 5
         {
@@ -1061,7 +1131,8 @@
             "weapon": "Black Talon",
             "hunter": "Lucky Pants",
             "titan": "Eternal Warrior",
-            "warlock": "Transversive Steps"
+            "warlock": "Transversive Steps",
+            "date": "01/10/20"
         },
         //Week 6
         {
@@ -1069,7 +1140,8 @@
             "weapon": "The Colony",
             "hunter": "Shinobu's Vow",
             "titan": "Mask of the Quite One",
-            "warlock": "Lunafaction Boots"
+            "warlock": "Lunafaction Boots",
+            "date": "01/17/20"
         },
         //Week 7
         {
@@ -1077,7 +1149,8 @@
             "weapon": "Monte Carlo",
             "hunter": "Orpheus Rig",
             "titan": "Actium War Rig",
-            "warlock": "Verity's Brow"
+            "warlock": "Verity's Brow",
+            "date": "01/24/20"
         },
         //Week 8
         {
@@ -1085,7 +1158,8 @@
             "weapon": "Fighting Lion",
             "hunter": "Lucky Pants",
             "titan": "Peregrine Greaves",
-            "warlock": "Starfire Protocol"
+            "warlock": "Starfire Protocol",
+            "date": "01/31/20"
         },
         //Week 9
         {
@@ -1093,7 +1167,8 @@
             "weapon": "Black Talon",
             "hunter": "Knucklehead Radar",
             "titan": "Lion Rampant",
-            "warlock": "Aeon Soul"
+            "warlock": "Aeon Soul",
+            "date": "02/07/20"
         },
         //Week 10
         {
@@ -1101,7 +1176,8 @@
             "weapon": "Tractor Cannon",
             "hunter": "The Dragon's Shadow",
             "titan": "Wormgod Caress",
-            "warlock": "Starfire Protocol"
+            "warlock": "Starfire Protocol",
+            "date": "02/14/20"
         },
         //Week 11
         {
@@ -1109,7 +1185,8 @@
             "weapon": "The Colony",
             "hunter": "Raiden Flux",
             "titan": "Mask of the Quite One",
-            "warlock": "Crown of Tempests"
+            "warlock": "Crown of Tempests",
+            "date": "02/21/20"
         },
         //Week 12
         {
@@ -1117,7 +1194,8 @@
             "weapon": "Sunshot",
             "hunter": "Aeon Swift",
             "titan": "Dunemarchers",
-            "warlock": "Eye of Another World"
+            "warlock": "Eye of Another World",
+            "date": "02/28/20"
         },
         //Week 13
         {
@@ -1125,7 +1203,8 @@
             "weapon": "Prometheus Lens",
             "hunter": "Lucky Pants",
             "titan": "Helm of Saint-14",
-            "warlock": "Apotheosis Veil"
+            "warlock": "Apotheosis Veil",
+            "date": "03/06/20"
         }
     ],
     //Season 10 Worthy 03/10/2020-06/09/2020
@@ -1136,7 +1215,8 @@
             "weapon": "Coldheart",
             "hunter": "Lucky Pants",
             "titan": "Ashen Wake",
-            "warlock": "Chromatic Fire"
+            "warlock": "Chromatic Fire",
+            "date": "03/13/20"
         },
         //Week 2
         {
@@ -1144,7 +1224,8 @@
             "weapon": "The Queenbreaker",
             "hunter": "Oathkeeper",
             "titan": "Mk. 44 Stand Asides",
-            "warlock": "Ophidian Aspect"
+            "warlock": "Ophidian Aspect",
+            "date": "03/20/20"
         },
         //Week 3
         {
@@ -1152,7 +1233,8 @@
             "weapon": "The Huckleberry",
             "hunter": "The Sixth Coyote",
             "titan": "Crest of Alpha Lupi",
-            "warlock": "Skull of Dire Ahamkara"
+            "warlock": "Skull of Dire Ahamkara",
+            "date": "03/27/20"
         },
         //Week 4
         {
@@ -1160,7 +1242,8 @@
             "weapon": "Hard Light",
             "hunter": "Orpheus Rig",
             "titan": "Stronghold",
-            "warlock": "Contraverse Hold"
+            "warlock": "Contraverse Hold",
+            "date": "04/03/20"
         },
         //Week 5
         {
@@ -1168,7 +1251,8 @@
             "weapon": "The Jade Rabbit",
             "hunter": "The Sixth Coyote",
             "titan": "Hallowfire Heart",
-            "warlock": "Geomag Stabilizers"
+            "warlock": "Geomag Stabilizers",
+            "date": "04/10/20"
         },
         //Week 6
         {
@@ -1176,7 +1260,8 @@
             "weapon": "Coldheart",
             "hunter": "Knucklehead Radar",
             "titan": "Armamentarium",
-            "warlock": "Crown of Tempests"
+            "warlock": "Crown of Tempests",
+            "date": "04/17/20"
         },
         //Week 7
         {
@@ -1184,7 +1269,8 @@
             "weapon": "Fighting Lion",
             "hunter": "Celestial Nighthawk",
             "titan": "Hallowfire Heart",
-            "warlock": "Sanguine Alchemy"
+            "warlock": "Sanguine Alchemy",
+            "date": "04/24/20"
         },
         //Week 8
         {
@@ -1192,7 +1278,8 @@
             "weapon": "Monte Carlo",
             "hunter": "Khepri's Sting",
             "titan": "Severance Enclosure",
-            "warlock": "Skull of Dire Ahamkara"
+            "warlock": "Skull of Dire Ahamkara",
+            "date": "05/01/20"
         },
         //Week 9
         {
@@ -1200,7 +1287,8 @@
             "weapon": "Hard Light",
             "hunter": "Gwisin Vest",
             "titan": "Hallowfire Heart",
-            "warlock": "Apotheosis Veil"
+            "warlock": "Apotheosis Veil",
+            "date": "05/08/20"
         },
         //Week 10
         {
@@ -1208,7 +1296,8 @@
             "weapon": "D.A.R.C.I.",
             "hunter": "The Sixth Coyote",
             "titan": "Dunemarchers",
-            "warlock": "Claws of Ahamkara"
+            "warlock": "Claws of Ahamkara",
+            "date": "05/15/20"
         },
         //Week 11
         {
@@ -1216,7 +1305,8 @@
             "weapon": "Cerberus+1",
             "hunter": "Celestial Nighthawk",
             "titan": "Mask of the Quite One",
-            "warlock": "Karnstein Armlets"
+            "warlock": "Karnstein Armlets",
+            "date": "05/22/20"
         },
         //Week 12
         {
@@ -1224,7 +1314,8 @@
             "weapon": "The Prospector",
             "hunter": "The Bombardiers",
             "titan": "Doom Fang Pauldron",
-            "warlock": "Crown of Tempests"
+            "warlock": "Crown of Tempests",
+            "date": "05/29/20"
         },
         //Week 13
         {
@@ -1232,10 +1323,11 @@
             "weapon": "SUROS Regime",
             "hunter": "St0mp-EE5",
             "titan": "Stronghold",
-            "warlock": "Claws of Ahamkara"
+            "warlock": "Claws of Ahamkara",
+            "date": "06/05/20"
         }
     ],
-    //Season 11 Arrivals 06/06/2020-11/10/2020
+    //Season 11 Arrivals 06/09/2020-11/10/2020
     [
         //Week 1
         {
@@ -1267,7 +1359,8 @@
                 "Dis": 9,
                 "Int": 14,
                 "Str": 6
-            }
+            },
+            "date": "06/12/20"
         },
         //Week 2
         {
@@ -1299,9 +1392,10 @@
                 "Dis": 15,
                 "Int": 9,
                 "Str": 7
-            }
+            },
+            "date": "06/19/20"
         },
-        //Week 3
+        //Week 3 https://www.youtube.com/watch?v=poHepkVphdA&list=PLuGZAFj5iqHdpPTmmvRZDszmC4mLzLVfi&index=115
         {
             "location": "EDZ",
             "weapon": "The Colony",
