@@ -1395,7 +1395,7 @@
             },
             "date": "06/19/20"
         },
-        //Week 3 https://www.youtube.com/watch?v=poHepkVphdA&list=PLuGZAFj5iqHdpPTmmvRZDszmC4mLzLVfi&index=115
+        //Week 3
         {
             "location": "EDZ",
             "weapon": "The Colony",
@@ -1425,7 +1425,8 @@
                 "Dis": 8,
                 "Int": 14,
                 "Str": 6
-            }
+            },
+            "date": "06/26/20"
         },
         //Week 4
         {
@@ -1457,7 +1458,8 @@
                 "Dis": 13,
                 "Int": 12,
                 "Str": 6
-            }
+            },
+            "date": "07/03/20"
         },
         //Week 5
         {
@@ -1489,7 +1491,8 @@
                 "Dis": 9,
                 "Int": 6,
                 "Str": 15
-            }
+            },
+            "date": "07/10/20"
         },
         //Week 6
         {
@@ -1521,7 +1524,8 @@
                 "Dis": 11,
                 "Int": 18,
                 "Str": 2
-            }
+            },
+            "date": "07/17/20"
         },
         //Week 7
         {
@@ -1553,7 +1557,8 @@
                 "Dis": 11,
                 "Int": 16,
                 "Str": 2
-            }
+            },
+            "date": "07/24/20"
         },
         //Week 8
         {
@@ -1585,7 +1590,8 @@
                 "Dis": 8,
                 "Int": 7,
                 "Str": 14
-            }
+            },
+            "date": "07/31/20"
         },
         //Week 9
         {
@@ -1617,7 +1623,8 @@
                 "Dis": 17,
                 "Int": 10,
                 "Str": 6
-            }
+            },
+            "date": "08/07/20"
         },
         //Week 10
         {
@@ -1649,7 +1656,8 @@
                 "Dis": 13,
                 "Int": 6,
                 "Str": 9
-            }
+            },
+            "date": "08/14/20"
         },
         //Week 11
         {
@@ -1681,7 +1689,8 @@
                 "Dis": 7,
                 "Int": 14,
                 "Str": 8
-            }
+            },
+            "date": "08/21/20"
         },
         //Week 12
         {
@@ -1713,7 +1722,8 @@
                 "Dis": 9,
                 "Int": 6,
                 "Str": 15
-            }
+            },
+            "date": "08/28/20"
         },
         //Week 13
         {
@@ -1745,7 +1755,8 @@
                 "Dis": 17,
                 "Int": 6,
                 "Str": 7
-            }
+            },
+            "date": "09/04/20"
         },
         //Week 14
         {
@@ -1777,7 +1788,8 @@
                 "Dis": 14,
                 "Int": 12,
                 "Str": 7
-            }
+            },
+            "date": "09/11/20"
         },
         //Week 15
         {
@@ -1809,7 +1821,8 @@
                 "Dis": 20,
                 "Int": 2,
                 "Str": 9
-            }
+            },
+            "date": "09/18/20"
         },
         //Week 16
         {
@@ -1841,7 +1854,8 @@
                 "Dis": 23,
                 "Int": 7,
                 "Str": 2
-            }
+            },
+            "date": "09/25/20"
         },
         //Week 17
         {
@@ -1873,7 +1887,8 @@
                 "Dis": 13,
                 "Int": 9,
                 "Str": 9
-            }
+            },
+            "date": "10/02/20"
         },
         //Week 18
         {
@@ -1905,7 +1920,8 @@
                 "Dis": 6,
                 "Int": 14,
                 "Str": 10
-            }
+            },
+            "date": "10/09/20"
         },
         //Week 19
         {
@@ -1937,7 +1953,8 @@
                 "Dis": 18,
                 "Int": 9,
                 "Str": 2
-            }
+            },
+            "date": "10/16/20"
         },
         //Week 20
         {
@@ -1969,7 +1986,8 @@
                 "Dis": 9,
                 "Int": 15,
                 "Str": 6
-            }
+            },
+            "date": "10/23/20"
         },
         //Week 21
         {
@@ -2001,7 +2019,8 @@
                 "Dis": 18,
                 "Int": 9,
                 "Str": 2
-            }
+            },
+            "date": "10/30/20"
         },
         //Week 22
         {
@@ -2033,7 +2052,8 @@
                 "Dis": 7,
                 "Int": 14,
                 "Str": 10
-            }
+            },
+            "date": "11/06/20"
         }
     ],
     //Season 12 Hunt 11/10/2020-02/09/2021
@@ -2068,7 +2088,8 @@
                 "Dis": 13,
                 "Int": 2,
                 "Str": 13
-            }
+            },
+            "date": "11/13/20"
         },
         //Week 2
         {
@@ -2100,7 +2121,8 @@
                 "Dis": 6,
                 "Int": 17,
                 "Str": 6
-            }
+            },
+            "date": "11/20/20"
         },
         //Week 3
         {
@@ -2132,7 +2154,8 @@
                 "Dis": 2,
                 "Int": 14,
                 "Str": 12
-            }
+            },
+            "date": "11/27/20"
         },
         //Week 4
         {
@@ -2164,7 +2187,8 @@
                 "Dis": 9,
                 "Int": 14,
                 "Str": 6
-            }
+            },
+            "date": "12/04/20"
         },
         //Week 5
         {
@@ -2196,7 +2220,8 @@
                 "Dis": 12,
                 "Int": 2,
                 "Str": 16
-            }
+            },
+            "date": "12/11/20"
         },
         //Week 6
         {
@@ -2228,7 +2253,8 @@
                 "Dis": 7,
                 "Int": 9,
                 "Str": 14
-            }
+            },
+            "date": "12/18/20"
         },
         //Week 7
         {
@@ -2260,7 +2286,8 @@
                 "Dis": 10,
                 "Int": 14,
                 "Str": 6
-            }
+            },
+            "date": "12/25/20"
         },
         //Week 8
         {
@@ -2292,7 +2319,8 @@
                 "Dis": 7,
                 "Int": 15,
                 "Str": 7
-            }
+            },
+            "date": "01/01/21"
         },
         //Week 9
         {
@@ -2324,7 +2352,8 @@
                 "Dis": 7,
                 "Int": 14,
                 "Str": 9
-            }
+            },
+            "date": "01/08/21"
         },
         //Week 10
         {
@@ -2356,7 +2385,8 @@
                 "Dis": 13,
                 "Int": 8,
                 "Str": 9
-            }
+            },
+            "date": "01/15/21"
         },
         //Week 11
         {
@@ -2388,7 +2418,8 @@
                 "Dis": 15,
                 "Int": 2,
                 "Str": 13
-            }
+            },
+            "date": "01/22/21"
         },
         //Week 12
         {
@@ -2420,7 +2451,8 @@
                 "Dis": 10,
                 "Int": 10,
                 "Str": 10
-            }
+            },
+            "date": "01/29/21"
         },
         //Week 13
         {
@@ -2452,7 +2484,8 @@
                 "Dis": 15,
                 "Int": 10,
                 "Str": 6
-            }
+            },
+            "date": "02/05/21"
         }
     ],
     //Season 13 Chosen 02/09/2021-05/11/2021
@@ -2487,7 +2520,8 @@
                 "Dis": 14,
                 "Int": 2,
                 "Str": 14
-            }
+            },
+            "date": "02/12/21"
         },
         //Week 2
         {
@@ -2519,7 +2553,8 @@
                 "Dis": 2,
                 "Int": 17,
                 "Str": 13
-            }
+            },
+            "date": "02/19/21"
         },
         //Week 3
         {
@@ -2551,7 +2586,8 @@
                 "Dis": 9,
                 "Int": 15,
                 "Str": 6
-            }
+            },
+            "date": "02/26/21"
         },
         //Week 4
         {
@@ -2583,7 +2619,8 @@
                 "Dis": 16,
                 "Int": 11,
                 "Str": 2
-            }
+            },
+            "date": "03/05/21"
         },
         //Week 5
         {
@@ -2615,7 +2652,8 @@
                 "Dis": 6,
                 "Int": 25,
                 "Str": 2
-            }
+            },
+            "date": "03/12/21"
         },
         //Week 6
         {
@@ -2647,7 +2685,8 @@
                 "Dis": 15,
                 "Int": 7,
                 "Str": 8
-            }
+            },
+            "date": "03/19/21"
         },
         //Week 7
         {
@@ -2679,7 +2718,8 @@
                 "Dis": 2,
                 "Int": 13,
                 "Str": 13
-            }
+            },
+            "date": "03/26/21"
         },
         //Week 8
         {
@@ -2711,7 +2751,8 @@
                 "Dis": 7,
                 "Int": 6,
                 "Str": 15
-            }
+            },
+            "date": "04/02/21"
         },
         //Week 9
         {
@@ -2743,7 +2784,8 @@
                 "Dis": 16,
                 "Int": 7,
                 "Str": 8
-            }
+            },
+            "date": "04/09/21"
         },
         //Week 10
         {
@@ -2775,7 +2817,8 @@
                 "Dis": 2,
                 "Int": 7,
                 "Str": 22
-            }
+            },
+            "date": "04/16/21"
         },
         //Week 11
         {
@@ -2807,7 +2850,8 @@
                 "Dis": 14,
                 "Int": 14,
                 "Str": 2
-            }
+            },
+            "date": "04/23/21"
         },
         //Week 12
         {
@@ -2839,7 +2883,8 @@
                 "Dis": 2,
                 "Int": 7,
                 "Str": 20
-            }
+            },
+            "date": "04/30/21"
         },
         //Week 13
         {
@@ -2871,7 +2916,8 @@
                 "Dis": 7,
                 "Int": 16,
                 "Str": 7
-            }
+            },
+            "date": "05/07/21"
         }
     ],
     //Season 14 Splicer 05/11/2021-08/24/2021
@@ -2906,7 +2952,8 @@
                 "Dis": 8,
                 "Int": 17,
                 "Str": 7
-            }
+            },
+            "date": "05/14/21"
         },
         //Week 2
         {
@@ -2938,7 +2985,8 @@
                 "Dis": 8,
                 "Int": 7,
                 "Str": 17
-            }
+            },
+            "date": "05/21/21"
         },
         //Week 3
         {
@@ -2970,7 +3018,8 @@
                 "Dis": 9,
                 "Int": 13,
                 "Str": 7
-            }
+            },
+            "date": "05/28/21"
         },
         //Week 4
         {
@@ -3002,7 +3051,8 @@
                 "Dis": 17,
                 "Int": 2,
                 "Str": 11
-            }
+            },
+            "date": "06/04/21"
         },
         //Week 5
         {
@@ -3034,7 +3084,8 @@
                 "Dis": 13,
                 "Int": 8,
                 "Str": 10
-            }
+            },
+            "date": "06/11/21"
         },
         //Week 6
         {
@@ -3066,7 +3117,8 @@
                 "Dis": 16,
                 "Int": 6,
                 "Str": 8
-            }
+            },
+            "date": "06/18/21"
         },
         //Week 7
         {
@@ -3098,7 +3150,8 @@
                 "Dis": 12,
                 "Int": 13,
                 "Str": 7
-            }
+            },
+            "date": "06/25/21"
         },
         //Week 8
         {
@@ -3130,7 +3183,8 @@
                 "Dis": 19,
                 "Int": 10,
                 "Str": 2
-            }
+            },
+            "date": "07/02/21"
         },
         //Week 9
         {
@@ -3162,7 +3216,8 @@
                 "Dis": 7,
                 "Int": 10,
                 "Str": 14
-            }
+            },
+            "date": "07/09/21"
         },
         //Week 10
         {
@@ -3194,7 +3249,8 @@
                 "Dis": 6,
                 "Int": 15,
                 "Str": 10
-            }
+            },
+            "date": "07/16/21"
         },
         //Week 11
         {
@@ -3226,7 +3282,8 @@
                 "Dis": 2,
                 "Int": 21,
                 "Str": 6
-            }
+            },
+            "date": "07/23/21"
         },
         //Week 12
         {
@@ -3258,7 +3315,8 @@
                 "Dis": 10,
                 "Int": 2,
                 "Str": 18
-            }
+            },
+            "date": "07/30/21"
         },
         //Week 13
         {
@@ -3290,7 +3348,8 @@
                 "Dis": 9,
                 "Int": 12,
                 "Str": 7
-            }
+            },
+            "date": "08/06/21"
         },
         //Week 14
         {
@@ -3322,7 +3381,8 @@
                 "Dis": 21,
                 "Int": 6,
                 "Str": 2
-            }
+            },
+            "date": "08/13/21"
         },
         //Week 15
         {
@@ -3354,7 +3414,8 @@
                 "Dis": 14,
                 "Int": 2,
                 "Str": 14
-            }
+            },
+            "date": "08/20/21"
         }
     ],
     //Season 15 Lost 08/24/2021-02/22/2022
@@ -3369,7 +3430,7 @@
                 "Res": 3,
                 "Rec": 12,
                 "Dis": 17,
-                "Int": 19,
+                "Int": 10,
                 "Str": 2
             },
             "titan": {
@@ -3390,6 +3451,7 @@
                 "Int": 17,
                 "Str": 14
             },
+            "date": "08/27/21",
             "legendary_weapons": [
                 {
                     "name": "True Prophecy",
@@ -3496,7 +3558,7 @@
                 "hunter": [
                     {
                         "name": "Woven Firesmith Grips",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 12,
                         "Res": 7,
                         "Rec": 13,
@@ -3526,7 +3588,7 @@
                     },
                     {
                         "name": "Woven Firesmith Mask",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 14,
                         "Res": 2,
                         "Rec": 16,
@@ -3548,7 +3610,7 @@
                 "titan": [
                     {
                         "name": "Forged Machinist Gauntlets",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 2,
                         "Res": 18,
                         "Rec": 10,
@@ -3578,7 +3640,7 @@
                     },
                     {
                         "name": "Forged Machinist Helm",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 7,
                         "Res": 7,
                         "Rec": 12,
@@ -3600,7 +3662,7 @@
                 "warlock": [
                     {
                         "name": "Annealed Shaper Gloves",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 14,
                         "Res": 6,
                         "Rec": 12,
@@ -3630,7 +3692,7 @@
                     },
                     {
                         "name": "Annealed Shaper Crown",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 9,
                         "Res": 18,
                         "Rec": 2,
@@ -3682,6 +3744,7 @@
                 "Int": 6,
                 "Str": 10
             },
+            "date": "09/03/21",
             "legendary_weapons": [
                 {
                     "name": "Dire Promise",
@@ -3786,7 +3849,7 @@
                 "hunter": [
                     {
                         "name": "Wing Contender",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 2,
                         "Res": 16,
                         "Rec": 13,
@@ -3816,7 +3879,7 @@
                     },
                     {
                         "name": "Wing Contender",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 7,
                         "Res": 7,
                         "Rec": 17,
@@ -3838,7 +3901,7 @@
                 "titan": [
                     {
                         "name": "Wing Discipline",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 7,
                         "Res": 9,
                         "Rec": 12,
@@ -3868,7 +3931,7 @@
                     },
                     {
                         "name": "Wing Discipline",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 15,
                         "Res": 12,
                         "Rec": 2,
@@ -3890,7 +3953,7 @@
                 "warlock": [
                     {
                         "name": "Wing Theorem",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 24,
                         "Res": 2,
                         "Rec": 6,
@@ -3920,7 +3983,7 @@
                     },
                     {
                         "name": "Wing Theorem",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 12,
                         "Res": 14,
                         "Rec": 6,
@@ -3972,6 +4035,7 @@
                 "Int": 8,
                 "Str": 15
             },
+            "date": "09/10/21",
             "legendary_weapons": [
                 {
                     "name": "Seventh Seraph Carbine",
@@ -4077,7 +4141,7 @@
                 "hunter": [
                     {
                         "name": "Woven Firesmith Grips",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 12,
                         "Res": 13,
                         "Rec": 7,
@@ -4107,7 +4171,7 @@
                     },
                     {
                         "name": "Woven Firesmith Mask",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 9,
                         "Res": 13,
                         "Rec": 7,
@@ -4129,7 +4193,7 @@
                 "titan": [
                     {
                         "name": "Forged Machinist Gauntlets",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 8,
                         "Res": 13,
                         "Rec": 10,
@@ -4159,7 +4223,7 @@
                     },
                     {
                         "name": "Forged Machinist Helm",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 6,
                         "Res": 6,
                         "Rec": 15,
@@ -4181,7 +4245,7 @@
                 "warlock": [
                     {
                         "name": "Annealed Shaper Gloves",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 15,
                         "Res": 14,
                         "Rec": 2,
@@ -4211,7 +4275,7 @@
                     },
                     {
                         "name": "Annealed Shaper Crown",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 10,
                         "Res": 20,
                         "Rec": 2,
@@ -4370,7 +4434,7 @@
                 "hunter": [
                     {
                         "name": "Wild Hunt Grasps",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 21,
                         "Res": 2,
                         "Rec": 8,
@@ -4400,7 +4464,7 @@
                     },
                     {
                         "name": "Wild Hunt Mask",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 2,
                         "Res": 6,
                         "Rec": 23,
@@ -4422,7 +4486,7 @@
                 "titan": [
                     {
                         "name": "Wild Hunt Gauntlets",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 15,
                         "Res": 14,
                         "Rec": 2,
@@ -4452,7 +4516,7 @@
                     },
                     {
                         "name": "Wild Hunt Helm",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 10,
                         "Res": 14,
                         "Rec": 6,
@@ -4474,7 +4538,7 @@
                 "warlock": [
                     {
                         "name": "Wild Hunt Gloves",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 2,
                         "Res": 19,
                         "Rec": 9,
@@ -4504,7 +4568,7 @@
                     },
                     {
                         "name": "Wild Hunt Hood",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 7,
                         "Res": 2,
                         "Rec": 22,
@@ -4663,7 +4727,7 @@
                 "hunter": [
                     {
                         "name": "Simulator Grips",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 15,
                         "Res": 14,
                         "Rec": 2,
@@ -4693,7 +4757,7 @@
                     },
                     {
                         "name": "Simulator Mask",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 2,
                         "Res": 16,
                         "Rec": 10,
@@ -4715,7 +4779,7 @@
                 "titan": [
                     {
                         "name": "Simulator Gauntlets",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 19,
                         "Res": 2,
                         "Rec": 11,
@@ -4745,7 +4809,7 @@
                     },
                     {
                         "name": "Simulator Helm",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 16,
                         "Res": 2,
                         "Rec": 12,
@@ -4767,7 +4831,7 @@
                 "warlock": [
                     {
                         "name": "Simulator Gloves",
-                        "type": "Gauntlets",
+                        "type": "Arms",
                         "Mob": 8,
                         "Res": 13,
                         "Rec": 10,
@@ -4797,7 +4861,7 @@
                     },
                     {
                         "name": "Simulator Hood",
-                        "type": "Helmet",
+                        "type": "Head",
                         "Mob": 15,
                         "Res": 7,
                         "Rec": 9,
@@ -4817,8 +4881,299 @@
                     }
                 ]
             }
-        }
+        },
         //Week 6
+        {
+            "location": "Nessus",
+            "weapon": "Hard Light",
+            "hunter": {
+                "name": "Shards of Galanor",
+                "Mob": 13,
+                "Res": 9,
+                "Rec": 9,
+                "Dis": 2,
+                "Int": 17,
+                "Str": 12
+            },
+            "titan": {
+                "name": "Crest of Alpha Lupi",
+                "Mob": 10,
+                "Res": 14,
+                "Rec": 8,
+                "Dis": 8,
+                "Int": 9,
+                "Str": 13
+            },
+            "warlock": {
+                "name": "Sunbracers",
+                "Mob": 13,
+                "Res": 16,
+                "Rec": 3,
+                "Dis": 12,
+                "Int": 14,
+                "Str": 7
+            },
+            "date": "10/01/21",
+            "legendary_weapons": [
+                {
+                    "name": "Dire Promise",
+                    "column 1": [
+                        "Hitmark HCS",
+                        "Sureshot HCS"
+                    ],
+                    "column 2": [
+                        "High-Caliber Rounds",
+                        "Light Mag"
+                    ],
+                    "column 3": "Auto-Loading Holster",
+                    "column 4": "Swashbuckler",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Jian 7 Rifle",
+                    "column 1": [
+                        "SPO-57 Front",
+                        "SPO-28 Front"
+                    ],
+                    "column 2": [
+                        "Alloy Magazine",
+                        "Flared Magwell"
+                    ],
+                    "column 3": "Full Auto Trigger System",
+                    "column 4": "Outlaw",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Last Perdition",
+                    "column 1": [
+                        "SPO-28 Front",
+                        "SPO-26 Front"
+                    ],
+                    "column 2": [
+                        "Tactical Mag",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Under Pressure",
+                    "column 4": "Kill Clip",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Seventh Seraph CQC-12",
+                    "column 1": [
+                        "Barrel Shroud",
+                        "Corkscrew Rifling"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Light Mag"
+                    ],
+                    "column 3": "Auto-Loading Holster",
+                    "column 4": "Snapshot Sights",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "Hollow Words",
+                    "column 1": [
+                        "Chambered Compensator",
+                        "Corkscrew Rifling"
+                    ],
+                    "column 2": [
+                        "Accelerated Coils",
+                        "Particle Repeater"
+                    ],
+                    "column 3": "Lead from Gold",
+                    "column 4": "Disruption Break",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Berenger's Memory",
+                    "column 1": [
+                        "Volatile Launch",
+                        "Hard Launch"
+                    ],
+                    "column 2": [
+                        "Alloy Casing",
+                        "High-Explosive Ordnance"
+                    ],
+                    "column 3": "Quickdraw",
+                    "column 4": "Shield Disorient",
+                    "masterwork": "Blast Radius"
+                },
+                {
+                    "name": "The Keening",
+                    "column 1": [
+                        "Arrowhead Brake",
+                        "Full bore"
+                    ],
+                    "column 2": [
+                        "Armor-Piercing Rounds",
+                        "Ricochet Rounds"
+                    ],
+                    "column 3": "Moving Target",
+                    "column 4": "Wellspring",
+                    "masterwork": "Reload Speed"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Ancient Apocalypse Grips",
+                        "type": "Arms",
+                        "Mob": 9,
+                        "Res": 2,
+                        "Rec": 18,
+                        "Dis": 13,
+                        "Int": 18,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Ancient Apocalypse ",
+                        "type": "Chest",
+                        "Mob": 10,
+                        "Res": 15,
+                        "Rec": 7,
+                        "Dis": 6,
+                        "Int": 2,
+                        "Str": 22
+                    },
+                    {
+                        "name": "Ancient Apocalypse Cloak",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Ancient Apocalypse Mask",
+                        "type": "Head",
+                        "Mob": 10,
+                        "Res": 12,
+                        "Rec": 6,
+                        "Dis": 20,
+                        "Int": 9,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Ancient Apocalypse Strides",
+                        "type": "Legs",
+                        "Mob": 17,
+                        "Res": 7,
+                        "Rec": 7,
+                        "Dis": 9,
+                        "Int": 6,
+                        "Str": 13
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Ancient Apocalypse Gauntlets",
+                        "type": "Arms",
+                        "Mob": 6,
+                        "Res": 25,
+                        "Rec": 2,
+                        "Dis": 6,
+                        "Int": 12,
+                        "Str": 12
+                    },
+                    {
+                        "name": "Ancient Apocalypse Plate",
+                        "type": "Chest",
+                        "Mob": 22,
+                        "Res": 7,
+                        "Rec": 2,
+                        "Dis": 27,
+                        "Int": 2,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Ancient Apocalypse Mark",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Ancient Apocalypse Helm",
+                        "type": "Head",
+                        "Mob": 12,
+                        "Res": 12,
+                        "Rec": 6,
+                        "Dis": 2,
+                        "Int": 16,
+                        "Str": 16
+                    },
+                    {
+                        "name": "Ancient Apocalypse Greaves",
+                        "type": "Legs",
+                        "Mob": 15,
+                        "Res": 2,
+                        "Rec": 14,
+                        "Dis": 15,
+                        "Int": 15,
+                        "Str": 2
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Ancient Apocalypse Gloves",
+                        "type": "Arms",
+                        "Mob": 15,
+                        "Res": 2,
+                        "Rec": 12,
+                        "Dis": 12,
+                        "Int": 8,
+                        "Str": 13
+                    },
+                    {
+                        "name": "Ancient Apocalypse Robes",
+                        "type": "Chest",
+                        "Mob": 2,
+                        "Res": 15,
+                        "Rec": 16,
+                        "Dis": 2,
+                        "Int": 26,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Ancient Apocalypse Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Ancient Apocalypse Hood",
+                        "type": "Head",
+                        "Mob": 2,
+                        "Res": 12,
+                        "Rec": 18,
+                        "Dis": 12,
+                        "Int": 14,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Ancient Apocalypse Boots",
+                        "type": "Legs",
+                        "Mob": 16,
+                        "Res": 8,
+                        "Rec": 6,
+                        "Dis": 12,
+                        "Int": 14,
+                        "Str": 6
+                    }
+                ]
+            }
+        }
+        //Week 7
         // {
         //     "location": "",
         //     "weapon": "",
@@ -4829,7 +5184,7 @@
         //         "Rec": ,
         //         "Dis": ,
         //         "Int": ,
-        //         "Str": 
+        //         "Str":
         //     },
         //     "titan": {
         //         "name": "",
@@ -4838,7 +5193,7 @@
         //         "Rec": ,
         //         "Dis": ,
         //         "Int": ,
-        //         "Str": 
+        //         "Str":
         //     },
         //     "warlock": {
         //         "name": "",
@@ -4847,7 +5202,7 @@
         //         "Rec": ,
         //         "Dis": ,
         //         "Int": ,
-        //         "Str": 
+        //         "Str":
         //     },
         //     "date": "",
         //     "legendary_weapons": [
@@ -4954,7 +5309,7 @@
         //         "hunter": [
         //             {
         //                 "name": "",
-        //                 "type": "Gauntlets",
+        //                 "type": "Arms",
         //                 "Mob": ,
         //                 "Res": ,
         //                 "Rec": ,
@@ -4984,7 +5339,7 @@
         //             },
         //             {
         //                 "name": "",
-        //                 "type": "Helmet",
+        //                 "type": "Head",
         //                 "Mob": ,
         //                 "Res": ,
         //                 "Rec": ,
@@ -5006,7 +5361,7 @@
         //         "titan": [
         //             {
         //                 "name": "",
-        //                 "type": "Gauntlets",
+        //                 "type": "Arms",
         //                 "Mob": ,
         //                 "Res": ,
         //                 "Rec": ,
@@ -5036,7 +5391,7 @@
         //             },
         //             {
         //                 "name": "",
-        //                 "type": "Helmet",
+        //                 "type": "Head",
         //                 "Mob": ,
         //                 "Res": ,
         //                 "Rec": ,
@@ -5058,7 +5413,7 @@
         //         "warlock": [
         //             {
         //                 "name": "",
-        //                 "type": "Gauntlets",
+        //                 "type": "Arms",
         //                 "Mob": ,
         //                 "Res": ,
         //                 "Rec": ,
@@ -5088,7 +5443,7 @@
         //             },
         //             {
         //                 "name": "",
-        //                 "type": "Helmet",
+        //                 "type": "Head",
         //                 "Mob": ,
         //                 "Res": ,
         //                 "Rec": ,
