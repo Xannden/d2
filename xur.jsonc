@@ -5172,297 +5172,298 @@
                     }
                 ]
             }
-        }
+        },
         //Week 7
-        // {
-        //     "location": "",
-        //     "weapon": "",
-        //     "hunter": {
-        //         "name": "",
-        //         "Mob": ,
-        //         "Res": ,
-        //         "Rec": ,
-        //         "Dis": ,
-        //         "Int": ,
-        //         "Str":
-        //     },
-        //     "titan": {
-        //         "name": "",
-        //         "Mob": ,
-        //         "Res": ,
-        //         "Rec": ,
-        //         "Dis": ,
-        //         "Int": ,
-        //         "Str":
-        //     },
-        //     "warlock": {
-        //         "name": "",
-        //         "Mob": ,
-        //         "Res": ,
-        //         "Rec": ,
-        //         "Dis": ,
-        //         "Int": ,
-        //         "Str":
-        //     },
-        //     "date": "",
-        //     "legendary_weapons": [
-        //         {
-        //             "name": "",
-        //             "column 1": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 2": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 3": "",
-        //             "column 4": "",
-        //             "masterwork": ""
-        //         },
-        //         {
-        //             "name": "",
-        //             "column 1": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 2": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 3": "",
-        //             "column 4": "",
-        //             "masterwork": ""
-        //         },
-        //         {
-        //             "name": "",
-        //             "column 1": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 2": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 3": "",
-        //             "column 4": "",
-        //             "masterwork": ""
-        //         },
-        //         {
-        //             "name": "",
-        //             "column 1": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 2": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 3": "",
-        //             "column 4": "",
-        //             "masterwork": ""
-        //         },
-        //         {
-        //             "name": "",
-        //             "column 1": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 2": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 3": "",
-        //             "column 4": "",
-        //             "masterwork": ""
-        //         },
-        //         {
-        //             "name": "",
-        //             "column 1": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 2": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 3": "",
-        //             "column 4": "",
-        //             "masterwork": ""
-        //         },
-        //         {
-        //             "name": "",
-        //             "column 1": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 2": [
-        //                 "",
-        //                 ""
-        //             ],
-        //             "column 3": "",
-        //             "column 4": "",
-        //             "masterwork": ""
-        //         }
-        //     ],
-        //     "legendary_armor": {
-        //         "hunter": [
-        //             {
-        //                 "name": "",
-        //                 "type": "Arms",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Chest",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Class",
-        //                 "Mob": 0,
-        //                 "Res": 0,
-        //                 "Rec": 0,
-        //                 "Dis": 0,
-        //                 "Int": 0,
-        //                 "Str": 0
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Head",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Legs",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             }
-        //         ],
-        //         "titan": [
-        //             {
-        //                 "name": "",
-        //                 "type": "Arms",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Chest",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Class",
-        //                 "Mob": 0,
-        //                 "Res": 0,
-        //                 "Rec": 0,
-        //                 "Dis": 0,
-        //                 "Int": 0,
-        //                 "Str": 0
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Head",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Legs",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             }
-        //         ],
-        //         "warlock": [
-        //             {
-        //                 "name": "",
-        //                 "type": "Arms",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Chest",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Class",
-        //                 "Mob": 0,
-        //                 "Res": 0,
-        //                 "Rec": 0,
-        //                 "Dis": 0,
-        //                 "Int": 0,
-        //                 "Str": 0
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Head",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             },
-        //             {
-        //                 "name": "",
-        //                 "type": "Legs",
-        //                 "Mob": ,
-        //                 "Res": ,
-        //                 "Rec": ,
-        //                 "Dis": ,
-        //                 "Int": ,
-        //                 "Str":
-        //             }
-        //         ]
-        //     }
-        // }
+        {
+            "location": "EDZ",
+            "weapon": "Telesto",
+            "hunter": {
+                "name": "The Bombardiers",
+                "Mob": 18,
+                "Res": 2,
+                "Rec": 12,
+                "Dis": 23,
+                "Int": 8,
+                "Str": 2
+            },
+            "titan": {
+                "name": "Mk. 44 Stand Asides",
+                "Mob": 7,
+                "Res": 11,
+                "Rec": 16,
+                "Dis": 2,
+                "Int": 23,
+                "Str": 7
+            },
+            "warlock": {
+                "name": "Winter's Guile",
+                "Mob": 7,
+                "Res": 6,
+                "Rec": 20,
+                "Dis": 2,
+                "Int": 2,
+                "Str": 24
+            },
+            "date": "10/08/21",
+            "legendary_weapons": [
+                {
+                    "name": "Jian 7 Rifle",
+                    "column 1": [
+                        "SLO-12 Post",
+                        "SLO-21 Post"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "High-Caliber Rounds"
+                    ],
+                    "column 3": "Grave Robber",
+                    "column 4": "Swashbuckler",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Seventh Seraph Officer Revolver",
+                    "column 1": [
+                        "Arrowhead Brake",
+                        "Hammer-Forged Rifling"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Extended Mag"
+                    ],
+                    "column 3": "Firmly Planted",
+                    "column 4": "Osmosis",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Gnawing Hunger",
+                    "column 1": [
+                        "Chambered Compensator",
+                        "Corkscrew Rifling"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Zen Moment",
+                    "column 4": "Multikill Clip",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "Distant Tumulus",
+                    "column 1": [
+                        "Arrowhead Brake",
+                        "Polygonal Rifling"
+                    ],
+                    "column 2": [
+                        "Steady Rounds",
+                        "Flared Magwell"
+                    ],
+                    "column 3": "Pulse Monitor",
+                    "column 4": "Opening Shot",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "Wishbringer",
+                    "column 1": [
+                        "Barrel Shroud",
+                        "Corkscrew Rifling"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Field Prep",
+                    "column 4": "Opening Shot",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Temptation's Hook",
+                    "column 1": [
+                        "Hungry Edge",
+                        "Enduring Blade",
+                        "Honed Edge"
+                    ],
+                    "column 2": [
+                        "Heavy Guard",
+                        "Swordmaster's Guard"
+                    ],
+                    "column 3": "Relentless Strikes",
+                    "column 4": "En Garde",
+                    "masterwork": "Impact"
+                },
+                {
+                    "name": "Bottom Dollar",
+                    "column 1": [
+                        "Chambered Compensator",
+                        "Extended Barrel"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Tactical Mag"
+                    ],
+                    "column 3": "Pulse Monitor",
+                    "column 4": "Dragonfly",
+                    "masterwork": "Stability"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Arms",
+                        "Mob": 7,
+                        "Res": 15,
+                        "Rec": 9,
+                        "Dis": 2,
+                        "Int": 9,
+                        "Str": 18
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Chest",
+                        "Mob": 16,
+                        "Res": 6,
+                        "Rec": 10,
+                        "Dis": 14,
+                        "Int": 2,
+                        "Str": 12
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Head",
+                        "Mob": 6,
+                        "Res": 12,
+                        "Rec": 10,
+                        "Dis": 6,
+                        "Int": 12,
+                        "Str": 12
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Legs",
+                        "Mob": 15,
+                        "Res": 9,
+                        "Rec": 6,
+                        "Dis": 9,
+                        "Int": 2,
+                        "Str": 18
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Arms",
+                        "Mob": 12,
+                        "Res": 13,
+                        "Rec": 7,
+                        "Dis": 9,
+                        "Int": 16,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Chest",
+                        "Mob": 9,
+                        "Res": 11,
+                        "Rec": 10,
+                        "Dis": 9,
+                        "Int": 12,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Head",
+                        "Mob": 15,
+                        "Res": 14,
+                        "Rec": 2,
+                        "Dis": 16,
+                        "Int": 2,
+                        "Str": 13
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Legs",
+                        "Mob": 6,
+                        "Res": 12,
+                        "Rec": 10,
+                        "Dis": 6,
+                        "Int": 24,
+                        "Str": 2
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Arms",
+                        "Mob": 17,
+                        "Res": 2,
+                        "Rec": 9,
+                        "Dis": 6,
+                        "Int": 2,
+                        "Str": 22
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Chest",
+                        "Mob": 13,
+                        "Res": 6,
+                        "Rec": 12,
+                        "Dis": 7,
+                        "Int": 12,
+                        "Str": 10
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Head",
+                        "Mob": 21,
+                        "Res": 2,
+                        "Rec": 6,
+                        "Dis": 15,
+                        "Int": 10,
+                        "Str": 7
+                    },
+                    {
+                        "name": "Vigil of Heroes",
+                        "type": "Legs",
+                        "Mob": 6,
+                        "Res": 10,
+                        "Rec": 16,
+                        "Dis": 6,
+                        "Int": 14,
+                        "Str": 10
+                    }
+                ]
+            }
+        }
     ]
 ]
