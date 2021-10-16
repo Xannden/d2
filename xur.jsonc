@@ -5464,6 +5464,297 @@
                     }
                 ]
             }
+        },
+        //Week 8
+        {
+            "location": "Tower",
+            "weapon": "D.A.R.C.I.",
+            "hunter": {
+                "name": "St0mp-EE5",
+                "Mob": 8,
+                "Res": 24,
+                "Rec": 2,
+                "Dis": 9,
+                "Int": 15,
+                "Str": 7
+            },
+            "titan": {
+                "name": "Synthoceps",
+                "Mob": 17,
+                "Res": 3,
+                "Rec": 10,
+                "Dis": 12,
+                "Int": 9,
+                "Str": 12
+            },
+            "warlock": {
+                "name": "Trasversive Steps",
+                "Mob": 17,
+                "Res": 12,
+                "Rec": 3,
+                "Dis": 16,
+                "Int": 7,
+                "Str": 6
+            },
+            "date": "10/15/21",
+            "legendary_weapons": [
+                {
+                    "name": "Dire Promise",
+                    "column 1": [
+                        "Fastdraw HCS",
+                        "Crossfire HCS"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Armor-Piercing Rounds"
+                    ],
+                    "column 3": "Auto-Loading Holster",
+                    "column 4": "Swashbuckler",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Seventh Seraph VY-7",
+                    "column 1": [
+                        "Chambered Compensator",
+                        "Polygonal Rifling"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Firmly Planted",
+                    "column 4": "Dragonfly",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Arsenic Bite-4B",
+                    "column 1": [
+                        "Flexible String",
+                        "High Tension String"
+                    ],
+                    "column 2": [
+                        "Natural Fletching",
+                        "Straight Fletching"
+                    ],
+                    "column 3": "Moving Target",
+                    "column 4": "Sneak Bow",
+                    "masterwork": "Draw Time"
+                },
+                {
+                    "name": "Long Shadow",
+                    "column 1": [
+                        "ATD Raptor",
+                        "ATA Scout"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Snapshot Sights",
+                    "column 4": "Ambitious Assassin",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Hollow Words",
+                    "column 1": [
+                        "Chambered Compensator",
+                        "Hammer-Forged Rifling"
+                    ],
+                    "column 2": [
+                        "Accelerated Coils",
+                        "Ionized Battery"
+                    ],
+                    "column 3": "Feeding Frenzy",
+                    "column 4": "Backup Plan",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Outrageous Fortune",
+                    "column 1": [
+                        "Volatile Launch",
+                        "Countermass"
+                    ],
+                    "column 2": [
+                        "Black Powder",
+                        "Concussion Grenades"
+                    ],
+                    "column 3": "Threat Detector",
+                    "column 4": "Quickdraw",
+                    "masterwork": "Blast Radius"
+                },
+                {
+                    "name": "Royal Entry",
+                    "column 1": [
+                        "Linear Compensator",
+                        "Quick Launch"
+                    ],
+                    "column 2": [
+                        "Black Powder",
+                        "Impact Casing"
+                    ],
+                    "column 3": "Auto-Loading Holster",
+                    "column 4": "Demolitionist",
+                    "masterwork": "Velocity"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Woven Firesmith Grips",
+                        "type": "Arms",
+                        "Mob": 7,
+                        "Res": 17,
+                        "Rec": 7,
+                        "Dis": 2,
+                        "Int": 23,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Woven Firesmith Vest",
+                        "type": "Chest",
+                        "Mob": 9,
+                        "Res": 11,
+                        "Rec": 10,
+                        "Dis": 20,
+                        "Int": 7,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Woven Firesmith Cape",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Woven Firesmith Mask",
+                        "type": "Head",
+                        "Mob": 2,
+                        "Res": 2,
+                        "Rec": 25,
+                        "Dis": 2,
+                        "Int": 23,
+                        "Str": 7
+                    },
+                    {
+                        "name": "Woven Firesmith Boots",
+                        "type": "Legs",
+                        "Mob": 15,
+                        "Res": 2,
+                        "Rec": 14,
+                        "Dis": 11,
+                        "Int": 9,
+                        "Str": 9
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Forged Machinist Gauntlets",
+                        "type": "Arms",
+                        "Mob": 15,
+                        "Res": 6,
+                        "Rec": 9,
+                        "Dis": 9,
+                        "Int": 2,
+                        "Str": 18
+                    },
+                    {
+                        "name": "Forged Machinist Plate",
+                        "type": "Chest",
+                        "Mob": 7,
+                        "Res": 10,
+                        "Rec": 14,
+                        "Dis": 14,
+                        "Int": 7,
+                        "Str": 10
+                    },
+                    {
+                        "name": "Forged Machinist Plate",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Forged Machinist Helm",
+                        "type": "Head",
+                        "Mob": 8,
+                        "Res": 13,
+                        "Rec": 10,
+                        "Dis": 9,
+                        "Int": 10,
+                        "Str": 11
+                    },
+                    {
+                        "name": "Forged Machinist Greaves",
+                        "type": "Legs",
+                        "Mob": 7,
+                        "Res": 19,
+                        "Rec": 2,
+                        "Dis": 2,
+                        "Int": 2,
+                        "Str": 24
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Annealed Shaper Gloves",
+                        "type": "Arms",
+                        "Mob": 13,
+                        "Res": 16,
+                        "Rec": 2,
+                        "Dis": 9,
+                        "Int": 13,
+                        "Str":8
+                    },
+                    {
+                        "name": "Annealed Shaper Robes",
+                        "type": "Chest",
+                        "Mob": 8,
+                        "Res": 2,
+                        "Rec": 22,
+                        "Dis": 11,
+                        "Int": 19,
+                        "Str":2
+                    },
+                    {
+                        "name": "Annealed Shaper Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Annealed Shaper Crown",
+                        "type": "Head",
+                        "Mob": 13,
+                        "Res": 6,
+                        "Rec": 12,
+                        "Dis": 7,
+                        "Int": 9,
+                        "Str":14
+                    },
+                    {
+                        "name": "Annealed Shaper Boots",
+                        "type": "Legs",
+                        "Mob": 16,
+                        "Res": 2,
+                        "Rec": 12,
+                        "Dis": 12,
+                        "Int": 14,
+                        "Str":6
+                    }
+                ]
+            }
         }
     ]
 ]
