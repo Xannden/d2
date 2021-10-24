@@ -3543,7 +3543,7 @@
                     "name": "Bite of the Fox",
                     "column 1": [
                         "Chambered Compensator",
-                        "Full bore"
+                        "Full Bore"
                     ],
                     "column 2": [
                         "Appended Mag",
@@ -3764,7 +3764,7 @@
                     "name": "Gnawing Hunger",
                     "column 1": [
                         "Fluted Barrel",
-                        "Full bore"
+                        "Full Bore"
                     ],
                     "column 2": [
                         "Extended Mag",
@@ -3778,7 +3778,7 @@
                     "name": "Cold Denial",
                     "column 1": [
                         "Chambered Compensator",
-                        "Full bore"
+                        "Full Bore"
                     ],
                     "column 2": [
                         "Alloy Magazine",
@@ -3791,7 +3791,7 @@
                 {
                     "name": "Distant Tumulus",
                     "column 1": [
-                        "Full bore",
+                        "Full Bore",
                         "Hammer-Forged Rifling"
                     ],
                     "column 2": [
@@ -4627,7 +4627,7 @@
                     "name": "Seventh Seraph Carbine",
                     "column 1": [
                         "Chambered Compensator",
-                        "Full bore"
+                        "Full Bore"
                     ],
                     "column 2": [
                         "Armor-Piercing Rounds",
@@ -5003,7 +5003,7 @@
                     "name": "The Keening",
                     "column 1": [
                         "Arrowhead Brake",
-                        "Full bore"
+                        "Full Bore"
                     ],
                     "column 2": [
                         "Armor-Piercing Rounds",
@@ -5711,7 +5711,7 @@
                         "Rec": 2,
                         "Dis": 9,
                         "Int": 13,
-                        "Str":8
+                        "Str": 8
                     },
                     {
                         "name": "Annealed Shaper Robes",
@@ -5721,7 +5721,7 @@
                         "Rec": 22,
                         "Dis": 11,
                         "Int": 19,
-                        "Str":2
+                        "Str": 2
                     },
                     {
                         "name": "Annealed Shaper Bond",
@@ -5741,7 +5741,7 @@
                         "Rec": 12,
                         "Dis": 7,
                         "Int": 9,
-                        "Str":14
+                        "Str": 14
                     },
                     {
                         "name": "Annealed Shaper Boots",
@@ -5751,7 +5751,300 @@
                         "Rec": 12,
                         "Dis": 12,
                         "Int": 14,
-                        "Str":6
+                        "Str": 6
+                    }
+                ]
+            }
+        },
+        //Week 9
+        {
+            "location": "Nessus",
+            "weapon": "Graviton Lance",
+            "hunter": {
+                "name": "Oathkeeper",
+                "Mob": 10,
+                "Res": 6,
+                "Rec": 17,
+                "Dis": 12,
+                "Int": 2,
+                "Str": 16
+            },
+            "titan": {
+                "name": "Ursa Furiosa",
+                "Mob": 21,
+                "Res": 8,
+                "Rec": 2,
+                "Dis": 13,
+                "Int": 9,
+                "Str": 8
+            },
+            "warlock": {
+                "name": "Lunafaction Boots",
+                "Mob": 20,
+                "Res": 3,
+                "Rec": 11,
+                "Dis": 10,
+                "Int": 8,
+                "Str": 13
+            },
+            "date": "10/22/21",
+            "legendary_weapons": [
+                {
+                    "name": "Dire Promise",
+                    "column 1": [
+                        "Truesight HCS",
+                        "Hitmark HCS"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "High-Caliber Rounds"
+                    ],
+                    "column 3": "Auto-Loading Holster",
+                    "column 4": "Elemental Capacitor",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Last Perdition",
+                    "column 1": [
+                        "SLO-12 Post",
+                        "SLO-10 Post"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Firmly Planted",
+                    "column 4": "Zen Moment",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Cold Denial",
+                    "column 1": [
+                        "Arrowhead Brake",
+                        "Hammer-Forged Rifling"
+                    ],
+                    "column 2": [
+                        "Alloy Magazine",
+                        "Light Mag"
+                    ],
+                    "column 3": "Killing Wind",
+                    "column 4": "Headseeker",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Main Ingredient",
+                    "column 1": [
+                        "Hitmark IS",
+                        "Red Dot 2 MOA",
+                        "Red Dot Micro"
+                    ],
+                    "column 2": [
+                        "Accelerated Coils",
+                        "Particle Repeater"
+                    ],
+                    "column 3": "Snapshot Sights",
+                    "column 4": "High-Impact Reserves",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Ikelos_SR_V1.0.2",
+                    "column 1": [
+                        "Fluted Barrel",
+                        "Full Bore"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Fourth Time's The Charm",
+                    "column 4": "Quickdraw",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Temptation's Hook",
+                    "column 1": [
+                        "Enduring Blade",
+                        "Honed Edge",
+                        "Jagged Edge"
+                    ],
+                    "column 2": [
+                        "Burst Guard",
+                        "Heavy Guard"
+                    ],
+                    "column 3": "Tireless Blade",
+                    "column 4": "Whirlwind Blade",
+                    "masterwork": "Impact"
+                },
+                {
+                    "name": "Bottom Dollar",
+                    "column 1": [
+                        "Hammer-Forged Rifling",
+                        "Smallbore"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Subsistence",
+                    "column 4": "Explosive Payload",
+                    "masterwork": "Stability"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Kairos Function Grips",
+                        "type": "Arms",
+                        "Mob": 16,
+                        "Res": 6,
+                        "Rec": 10,
+                        "Dis": 2,
+                        "Int": 2,
+                        "Str": 25
+                    },
+                    {
+                        "name": "Kairos Function Vest",
+                        "type": "Chest",
+                        "Mob": 21,
+                        "Res": 6,
+                        "Rec": 2,
+                        "Dis": 14,
+                        "Int": 14,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Kairos Function Cloak",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Kairos Function Mask",
+                        "type": "Head",
+                        "Mob": 13,
+                        "Res": 8,
+                        "Rec": 10,
+                        "Dis": 13,
+                        "Int": 12,
+                        "Str": 8
+                    },
+                    {
+                        "name": "Kairos Function Boots",
+                        "type": "Legs",
+                        "Mob": 16,
+                        "Res": 6,
+                        "Rec": 10,
+                        "Dis": 2,
+                        "Int": 21,
+                        "Str": 10
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Kairos Function Gauntlets",
+                        "type": "Arms",
+                        "Mob": 2,
+                        "Res": 12,
+                        "Rec": 15,
+                        "Dis": 2,
+                        "Int": 16,
+                        "Str": 12
+                    },
+                    {
+                        "name": "Kairos Function Plate",
+                        "type": "Chest",
+                        "Mob": 12,
+                        "Res": 9,
+                        "Rec": 11,
+                        "Dis": 9,
+                        "Int": 7,
+                        "Str": 13
+                    },
+                    {
+                        "name": "Kairos Function Mark",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Kairos Function Helm",
+                        "type": "Head",
+                        "Mob": 24,
+                        "Res": 2,
+                        "Rec": 6,
+                        "Dis": 6,
+                        "Int": 2,
+                        "Str": 22
+                    },
+                    {
+                        "name": "Kairos Function Greaves",
+                        "type": "Legs",
+                        "Mob": 16,
+                        "Res": 7,
+                        "Rec": 9,
+                        "Dis": 12,
+                        "Int": 16,
+                        "Str": 2
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Kairos Function Wraps",
+                        "type": "Arms",
+                        "Mob": 15,
+                        "Res": 9,
+                        "Rec": 6,
+                        "Dis": 13,
+                        "Int": 2,
+                        "Str": 14
+                    },
+                    {
+                        "name": "Kairos Function Robes",
+                        "type": "Chest",
+                        "Mob": 19,
+                        "Res": 2,
+                        "Rec": 11,
+                        "Dis": 14,
+                        "Int": 9,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Kairos Function Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Kairos Function Crown",
+                        "type": "Head",
+                        "Mob": 10,
+                        "Res": 14,
+                        "Rec": 6,
+                        "Dis": 13,
+                        "Int": 2,
+                        "Str": 14
+                    },
+                    {
+                        "name": "Kairos Function Boots",
+                        "type": "Legs",
+                        "Mob": 10,
+                        "Res": 14,
+                        "Rec": 6,
+                        "Dis": 16,
+                        "Int": 7,
+                        "Str": 9
                     }
                 ]
             }
