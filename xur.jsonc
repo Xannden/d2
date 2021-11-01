@@ -6048,6 +6048,591 @@
                     }
                 ]
             }
+        },
+        //Week 10
+        {
+            "location": "Tower",
+            "weapon": "Vigilance Wing",
+            "hunter": {
+                "name": "Shards of Galanor",
+                "Mob": 13,
+                "Res": 3,
+                "Rec": 16,
+                "Dis": 14,
+                "Int": 14,
+                "Str": 2
+            },
+            "titan": {
+                "name": "Antaeus Wards",
+                "Mob": 8,
+                "Res": 19,
+                "Rec": 3,
+                "Dis": 7,
+                "Int": 2,
+                "Str": 20
+            },
+            "warlock": {
+                "name": "Karnstein Armlets",
+                "Mob": 12,
+                "Res": 10,
+                "Rec": 10,
+                "Dis": 17,
+                "Int": 9,
+                "Str": 2
+            },
+            "date": "10/29/21",
+            "legendary_weapons": [
+                {
+                    "name": "True Prophecy",
+                    "column 1": [
+                        "Fastdraw HCS",
+                        "Truesight HCS"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Extended Mag"
+                    ],
+                    "column 3": "Opening Shot",
+                    "column 4": "Demolitionist",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Seventh Seraph Officer Revolver",
+                    "column 1": [
+                        "Extended Barrel",
+                        "Smallbore"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Flared Magwell"
+                    ],
+                    "column 3": "Fourth Time's The Charm",
+                    "column 4": "High-Impact Reserves",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Seventh Seraph VY-7",
+                    "column 1": [
+                        "Arrowhead Brake",
+                        "Fluted Barrel"
+                    ],
+                    "column 2": [
+                        "Tactical Mag",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Fourth Time's The Charm",
+                    "column 4": "Dragonfly",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Wishbringer",
+                    "column 1": [
+                        "Smallbore",
+                        "Barrel Shroud"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Threat Detector",
+                    "column 4": "Moving Target",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Long Shadow",
+                    "column 1": [
+                        "ATB Long Range",
+                        "ATA Scout"
+                    ],
+                    "column 2": [
+                        "Steady Rounds",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Field Prep",
+                    "column 4": "Moving Target",
+                    "masterwork": "Range"
+                },
+                {
+                    "name": "Steel Sybil Z-14",
+                    "column 1": [
+                        "Hungry Edge",
+                        "Enduring Blade",
+                        "Jagged Edge"
+                    ],
+                    "column 2": [
+                        "Balanced Guard",
+                        "Swordmaster's Guard"
+                    ],
+                    "column 3": "Tireless Blade",
+                    "column 4": "En Garde",
+                    "masterwork": "Impact"
+                },
+                {
+                    "name": "The Third Axiom",
+                    "column 1": [
+                        "Extended Barrel",
+                        "Full Bore"
+                    ],
+                    "column 2": [
+                        "High-Caliber Rounds",
+                        "Ricochet Rounds"
+                    ],
+                    "column 3": "Surplus",
+                    "column 4": "Unrelenting",
+                    "masterwork": "Handling"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Kairos Function Grips",
+                        "type": "Arms",
+                        "Mob": 24,
+                        "Res": 2,
+                        "Rec": 6,
+                        "Dis": 20,
+                        "Int": 9,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Kairos Function Vest",
+                        "type": "Chest",
+                        "Mob": 15,
+                        "Res": 7,
+                        "Rec": 9,
+                        "Dis": 17,
+                        "Int": 9,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Kairos Function Cloak",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Kairos Function Mask",
+                        "type": "Head",
+                        "Mob": 19,
+                        "Res": 6,
+                        "Rec": 7,
+                        "Dis": 22,
+                        "Int": 2,
+                        "Str": 8
+                    },
+                    {
+                        "name": "Kairos Function Boots",
+                        "type": "Legs",
+                        "Mob": 13,
+                        "Res": 16,
+                        "Rec": 2,
+                        "Dis": 6,
+                        "Int": 6,
+                        "Str": 17
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Kairos Function Gauntlets",
+                        "type": "Arms",
+                        "Mob": 2,
+                        "Res": 20,
+                        "Rec": 7,
+                        "Dis": 2,
+                        "Int": 12,
+                        "Str": 17
+                    },
+                    {
+                        "name": "Kairos Function Plate",
+                        "type": "Chest",
+                        "Mob": 9,
+                        "Res": 2,
+                        "Rec": 18,
+                        "Dis": 6,
+                        "Int": 14,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Kairos Function Mark",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Kairos Function Helm",
+                        "type": "Head",
+                        "Mob": 10,
+                        "Res": 14,
+                        "Rec": 6,
+                        "Dis": 15,
+                        "Int": 10,
+                        "Str": 7
+                    },
+                    {
+                        "name": "Kairos Function Greaves",
+                        "type": "Legs",
+                        "Mob": 12,
+                        "Res": 9,
+                        "Rec": 8,
+                        "Dis": 2,
+                        "Int": 15,
+                        "Str": 15
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Kairos Function Wraps",
+                        "type": "Arms",
+                        "Mob": 19,
+                        "Res": 11,
+                        "Rec": 2,
+                        "Dis": 13,
+                        "Int": 14,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Kairos Function Robes",
+                        "type": "Chest",
+                        "Mob": 2,
+                        "Res": 6,
+                        "Rec": 23,
+                        "Dis": 7,
+                        "Int": 20,
+                        "Str": 6
+                    },
+                    {
+                        "name": "Kairos Function Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Kairos Function Crown",
+                        "type": "Head",
+                        "Mob": 9,
+                        "Res": 12,
+                        "Rec": 9,
+                        "Dis": 20,
+                        "Int": 7,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Kairos Function Boots",
+                        "type": "Legs",
+                        "Mob": 9,
+                        "Res": 2,
+                        "Rec": 18,
+                        "Dis": 13,
+                        "Int": 18,
+                        "Str": 2
+                    }
+                ]
+            }
         }
+        //Week 11
+        // {
+        //     "location": "Tower",
+        //     "weapon": "Vigilance Wing",
+        //     "hunter": {
+        //         "name": "",
+        //         "Mob": ,
+        //         "Res": ,
+        //         "Rec": ,
+        //         "Dis": ,
+        //         "Int": ,
+        //         "Str":
+        //     },
+        //     "titan": {
+        //         "name": "",
+        //         "Mob": ,
+        //         "Res": ,
+        //         "Rec": ,
+        //         "Dis": ,
+        //         "Int": ,
+        //         "Str":
+        //     },
+        //     "warlock": {
+        //         "name": "",
+        //         "Mob": ,
+        //         "Res": ,
+        //         "Rec": ,
+        //         "Dis": ,
+        //         "Int": ,
+        //         "Str":
+        //     },
+        //     "date": "",
+        //     "legendary_weapons": [
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         },
+        //         {
+        //             "name": "",
+        //             "column 1": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 2": [
+        //                 "",
+        //                 ""
+        //             ],
+        //             "column 3": "",
+        //             "column 4": "",
+        //             "masterwork": ""
+        //         }
+        //     ],
+        //     "legendary_armor": {
+        //         "hunter": [
+        //             {
+        //                 "name": "",
+        //                 "type": "Arms",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Chest",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Class",
+        //                 "Mob": 0,
+        //                 "Res": 0,
+        //                 "Rec": 0,
+        //                 "Dis": 0,
+        //                 "Int": 0,
+        //                 "Str": 0
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Head",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Legs",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             }
+        //         ],
+        //         "titan": [
+        //             {
+        //                 "name": "",
+        //                 "type": "Arms",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Chest",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Class",
+        //                 "Mob": 0,
+        //                 "Res": 0,
+        //                 "Rec": 0,
+        //                 "Dis": 0,
+        //                 "Int": 0,
+        //                 "Str": 0
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Head",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Legs",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             }
+        //         ],
+        //         "warlock": [
+        //             {
+        //                 "name": "",
+        //                 "type": "Arms",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Chest",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Class",
+        //                 "Mob": 0,
+        //                 "Res": 0,
+        //                 "Rec": 0,
+        //                 "Dis": 0,
+        //                 "Int": 0,
+        //                 "Str": 0
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Head",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             },
+        //             {
+        //                 "name": "",
+        //                 "type": "Legs",
+        //                 "Mob": ,
+        //                 "Res": ,
+        //                 "Rec": ,
+        //                 "Dis": ,
+        //                 "Int": ,
+        //                 "Str":
+        //             }
+        //         ]
+        //     }
+        // }
     ]
 ]
