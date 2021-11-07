@@ -4109,7 +4109,7 @@
                     "masterwork": "Range"
                 },
                 {
-                    "name": "Honor'S Edge",
+                    "name": "Honor's Edge",
                     "column 1": [
                         "Jagged Edge",
                         "Tempered Edge"
@@ -6340,11 +6340,302 @@
                     }
                 ]
             }
-        }
+        },
         //Week 11
+        {
+            "location": "EDZ",
+            "weapon": "Prometheus Lens",
+            "hunter": {
+                "name": "Shinobu's Vow",
+                "Mob": 9,
+                "Res": 3,
+                "Rec": 22,
+                "Dis": 16,
+                "Int": 9,
+                "Str": 6
+            },
+            "titan": {
+                "name": "Lion Rampant",
+                "Mob": 10,
+                "Res": 14,
+                "Rec": 6,
+                "Dis": 2,
+                "Int": 14,
+                "Str": 15
+            },
+            "warlock": {
+                "name": "Crown of Tempests",
+                "Mob": 9,
+                "Res": 9,
+                "Rec": 16,
+                "Dis": 13,
+                "Int": 15,
+                "Str": 2
+            },
+            "date": "11/5/21",
+            "legendary_weapons": [
+                {
+                    "name": "True Prophecy",
+                    "column 1": [
+                        "Fastdraw HCS",
+                        "Crossfire HCS"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Tactical Mag"
+                    ],
+                    "column 3": "Grave Robber",
+                    "column 4": "Timed Payload",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Seventh Seraph Officer Revolver",
+                    "column 1": [
+                        "Corkscrew Rifling",
+                        "Hammer-Forged Rifling"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Steady Rounds"
+                    ],
+                    "column 3": "Underdog",
+                    "column 4": "Feeding Frenzy",
+                    "masterwork": "Reload Speed"
+                },
+                {
+                    "name": "Nature of the Beast",
+                    "column 1": [
+                        "Hitmark HCS",
+                        "Sureshot HCS"
+                    ],
+                    "column 2": [
+                        "Accurized Rounds",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Quickdraw",
+                    "column 4": "Rangefinder",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "Distant Tumulus",
+                    "column 1": [
+                        "Full Bore",
+                        "Hammer-Forged Rifling"
+                    ],
+                    "column 2": [
+                        "Appended Mag",
+                        "Alloy Magazine"
+                    ],
+                    "column 3": "Lead from Gold",
+                    "column 4": "Firing Line",
+                    "masterwork": "Handling"
+                },
+                {
+                    "name": "First In, Last Out",
+                    "column 1": [
+                        "Fluted Barrel",
+                        "Smallbore"
+                    ],
+                    "column 2": [
+                        "Tactical Mag",
+                        "Light Mag"
+                    ],
+                    "column 3": "Hip-Fire Grip",
+                    "column 4": "Demolitionist",
+                    "masterwork": "Stability"
+                },
+                {
+                    "name": "Honor's Edge",
+                    "column 1": [
+                        "Enduring Blade",
+                        "Jagged Edge"
+                    ],
+                    "column 2": [
+                        "Enduring Guard",
+                        "Swordmaster's Guard"
+                    ],
+                    "column 3": "Tireless Blade",
+                    "column 4": "Counterattack",
+                    "masterwork": "Impact"
+                },
+                {
+                    "name": "The Keening",
+                    "column 1": [
+                        "Arrowhead Brake",
+                        "Smallbore"
+                    ],
+                    "column 2": [
+                        "Extended Mag",
+                        "Light Mag"
+                    ],
+                    "column 3": "Hip-Fire Grip",
+                    "column 4": "Zen Moment",
+                    "masterwork": "Reload Speed"
+                }
+            ],
+            "legendary_armor": {
+                "hunter": [
+                    {
+                        "name": "Seventh Seraph Grips",
+                        "type": "Arms",
+                        "Mob": 2,
+                        "Res": 16,
+                        "Rec": 12,
+                        "Dis": 6,
+                        "Int": 14,
+                        "Str": 9
+                    },
+                    {
+                        "name": "Seventh Seraph Vest",
+                        "type": "Chest",
+                        "Mob": 16,
+                        "Res": 12,
+                        "Rec": 2,
+                        "Dis": 9,
+                        "Int": 6,
+                        "Str": 17
+                    },
+                    {
+                        "name": "Seventh Seraph Cloak",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Seventh Seraph Cowl",
+                        "type": "Head",
+                        "Mob": 13,
+                        "Res": 8,
+                        "Rec": 10,
+                        "Dis": 14,
+                        "Int": 15,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Seventh Seraph Strides",
+                        "type": "Legs",
+                        "Mob": 12,
+                        "Res": 9,
+                        "Rec": 8,
+                        "Dis": 2,
+                        "Int": 26,
+                        "Str": 2
+                    }
+                ],
+                "titan": [
+                    {
+                        "name": "Seventh Seraph Gauntlets",
+                        "type": "Arms",
+                        "Mob": 16,
+                        "Res": 6,
+                        "Rec": 10,
+                        "Dis": 2,
+                        "Int": 16,
+                        "Str": 13
+                    },
+                    {
+                        "name": "Seventh Seraph Plate",
+                        "type": "Chest",
+                        "Mob": 15,
+                        "Res": 6,
+                        "Rec": 9,
+                        "Dis": 21,
+                        "Int": 9,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Seventh Seraph Mark",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Seventh Seraph Helmet",
+                        "type": "Head",
+                        "Mob": 9,
+                        "Res": 2,
+                        "Rec": 18,
+                        "Dis": 13,
+                        "Int": 18,
+                        "Str": 2
+                    },
+                    {
+                        "name": "Seventh Seraph Greaves",
+                        "type": "Legs",
+                        "Mob": 6,
+                        "Res": 10,
+                        "Rec": 12,
+                        "Dis": 12,
+                        "Int": 7,
+                        "Str": 9
+                    }
+                ],
+                "warlock": [
+                    {
+                        "name": "Seventh Seraph Gloves",
+                        "type": "Arms",
+                        "Mob": 2,
+                        "Res": 10,
+                        "Rec": 17,
+                        "Dis": 2,
+                        "Int": 2,
+                        "Str": 25
+                    },
+                    {
+                        "name": "Seventh Seraph Robes",
+                        "type": "Chest",
+                        "Mob": 21,
+                        "Res": 2,
+                        "Rec": 8,
+                        "Dis": 9,
+                        "Int": 12,
+                        "Str": 12
+                    },
+                    {
+                        "name": "Seventh Seraph Bond",
+                        "type": "Class",
+                        "Mob": 0,
+                        "Res": 0,
+                        "Rec": 0,
+                        "Dis": 0,
+                        "Int": 0,
+                        "Str": 0
+                    },
+                    {
+                        "name": "Seventh Seraph Hood",
+                        "type": "Head",
+                        "Mob": 6,
+                        "Res": 25,
+                        "Rec": 2,
+                        "Dis": 2,
+                        "Int": 17,
+                        "Str": 12
+                    },
+                    {
+                        "name": "Seventh Seraph Boots",
+                        "type": "Legs",
+                        "Mob": 12,
+                        "Res": 16,
+                        "Rec": 2,
+                        "Dis": 10,
+                        "Int": 2,
+                        "Str": 19
+                    }
+                ]
+            }
+        }
+        //Week
         // {
-        //     "location": "Tower",
-        //     "weapon": "Vigilance Wing",
+        //     "location": "",
+        //     "weapon": "",
         //     "hunter": {
         //         "name": "",
         //         "Mob": ,
